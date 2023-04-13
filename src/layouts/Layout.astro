@@ -1,4 +1,6 @@
 ---
+import Nav from '../components/Nav.astro';
+
 export interface Props {
 	title: string;
 }
@@ -16,20 +18,79 @@ const { title } = Astro.props;
 		<title>{title}</title>
 	</head>
 	<body>
+		<div class="sky-dimmer"></div>
+		<Nav />
 		<slot />
+		<footer>
+			Footer, Impressum etc.
+		</footer>
 	</body>
 </html>
 <style is:global>
+	@import url('https://fonts.googleapis.com/css2?family=Inter&family=Oswald:wght@300;400;500;700&display=swap');
 	:root {
 		--accent: 124, 58, 237;
 		--accent-gradient: linear-gradient(45deg, rgb(var(--accent)), #da62c4 30%, white 60%);
+		--background-color: #000000;
+		--text: #c0c0c0;
+		--grey-text: #97918f;
+		--card: #0e0e0ebb;
+		--page-background: #0e0e0ebb;
+		--announcement: darkgreen;
+		--video-games: darkblue;
+		--podcast: darkred;
+		--tv-film: darkgoldenrod;
+	}
+	* {
+		box-sizing: border-box;
 	}
 	html {
-		font-family: system-ui, sans-serif;
-		background-color: #F6F6F6;
+		font-family: 'Inter', system-ui, sans-serif;
+		background-color: var(--background-color);
+	}
+	h1, h2, h3, h4, h5, h6 {
+		font-family: 'Oswald', system-ui, sans-serif;
+	}
+	a {
+		color: var(--text);
+		text-decoration: none;
+	}
+	body {
+		margin: 0;
+		background-image: url('/media/worldsnotvisible_3840_2160_1.webp');
+		background-size: cover;
+		background-position: center;
+	}
+	.sky-dimmer {
+		top: 0;
+		left: 0;
+		height: 110px;
+		width: 100%;
+		background-color: #00000000;
+		z-index: 1;
+		animation-name: sky-dimmer;
+		animation-duration: 7s;
+		animation-iteration-count: infinite;
+		animation-delay: 2s;
+	}
+	@keyframes sky-dimmer {
+		0% {
+			background-color: #00000000;
+		}
+		50% {
+			background-color: #00000088;
+		}
+		100% {
+			background-color: #00000000;
+		}
 	}
 	code {
 		font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
 			Bitstream Vera Sans Mono, Courier New, monospace;
+	}
+	footer {
+		background-color: #4F6272;
+		color: var(--text);
+		padding: 1rem;
 	}
 </style>

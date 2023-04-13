@@ -1,0 +1,25 @@
+.submissiontable_container {
+	margin: 1rem auto;
+	max-width: max-content;
+}
+
+.submissiontable_td {
+	padding: 0.5rem;
+}
+
+.submissiontable thead {
+	font-family: 'Oswald', system-ui, sans-serif;
+	text-transform: uppercase;
+}
+
+.submissiontable .author_th {
+	cursor: pointer;
+}
+
+.submissiontable .title_th {
+	cursor: pointer;
+}
+
+.submissiontable_author {
+	color: var(--grey-text);
+}

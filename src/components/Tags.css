@@ -1,0 +1,34 @@
+.tagpill_container {
+	display: flex;
+	flex-wrap: wrap;
+}
+.tagpill {
+	font-size: 0.75rem;
+	font-weight: 700;
+	padding: 0.1rem 0.4rem;
+	border-radius: 100rem;
+}
+.tagpill.announcement {
+	background: var(--announcement);
+}
+.tagpill.video-games {
+	background: var(--video-games);
+}
+.tagpill.podcast {
+	background: var(--podcast);
+}
+.tagpill.tv-film {
+	background: var(--tv-film);
+}
+.tagpill.comment {
+	background: var(--comment);
+}
+.tagpill.concerning-fun {
+	background: var(--concerning-fun);
+}
+.tagpill.comics {
+	background: var(--comics);
+}
+.tagpill.tabletop {
+	background: var(--tabletop);
+}

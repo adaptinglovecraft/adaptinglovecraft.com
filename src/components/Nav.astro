@@ -1,0 +1,48 @@
+---
+
+let navItems = [
+	{
+		"name": "Home",
+		"link": "/"
+	},
+	{
+		"name": "The Project",
+		"link": "/project"
+	},
+	{
+		"name": "How to Submit",
+		"link": "/submit"
+	},
+	{
+		"name": "Discord",
+		"link": "/#"
+	}
+]
+
+---
+
+<ul>
+	{navItems.map((i) => <li><a href={i.link}>{i.name}</a></li>)}
+</ul>
+
+<style>
+ul {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0;
+	overflow: hidden;
+	display: flex;
+	justify-content: space-around;
+	max-width: 40ch;
+	font-weight: 600;
+	font-size: clamp(0.8rem, 1.2vw, 1rem);
+	
+}
+ul li a {
+	color: var(--grey-text);
+	text-decoration: none;
+}
+ul li a:hover {
+	color: var(--text);
+}
+</style>
