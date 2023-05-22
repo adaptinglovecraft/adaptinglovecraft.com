@@ -23,3 +23,7 @@
 .submissiontable_author {
 	color: var(--grey-text);
 }
+
+.submissiontable_title {
+	color: var(--text);
+}

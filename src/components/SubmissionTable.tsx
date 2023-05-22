@@ -2,23 +2,13 @@ import TagsReact from "./Tags";
 
 import { useEffect, useState } from "react";
 
-import type { Submission } from "../types";
 import "./SubmissionTable.css";
+import type { CollectionEntry } from "astro:content";
 
-export default function SubmissionTable({
-  submissions,
-}: {
-  submissions: Submission[];
-}) {
+export default function SubmissionTable({ entries }: { entries: CollectionEntry<"submissions">[] }
+) {
 
-  const [submissionList, setSubmissionList] = useState(submissions);
-	const [listHasChanged, setListHasChanged] = useState(false)
-
-	useEffect(() => {
-		if (listHasChanged) {
-			setListHasChanged(false)
-		}
-	}, [listHasChanged])
+  const [submissions, setSubmissions] = useState(entries || []);
 
   return (
     <div className="submissiontable_container">
@@ -27,18 +17,18 @@ export default function SubmissionTable({
           <tr>
             <th
               onClick={() => {
-                setSubmissionList(
-                  submissionList.sort((a, b) => {
-                    if (a.author.name < b.author.name) {
+                setSubmissions(
+                  [...submissions.sort((a, b) => {
+                    if (a.data.author.name < b.data.author.name) {
                       return -1;
                     }
-                    if (a.author.name > b.author.name) {
+                    if (a.data.author.name > b.data.author.name) {
                       return 1;
                     }
                     return 0;
-                  })
+                  })]
                 );
-								setListHasChanged(true)
+            
               }}
               className="author_th"
             >
@@ -46,18 +36,11 @@ export default function SubmissionTable({
             </th>
             <th
               onClick={() => {
-                setSubmissionList(
-                  submissionList.sort((a, b) => {
-                    if (a.headline < b.headline) {
-                      return -1;
-                    }
-                    if (a.headline > b.headline) {
-                      return 1;
-                    }
-                    return 0;
-                  })
+                setSubmissions(
+                  [...submissions.sort((a, b) => {
+                    return a.data.headline.localeCompare(b.data.headline);
+                  })]
                 );
-								setListHasChanged(true)
               }}
               className="title_th"
             >
@@ -67,16 +50,21 @@ export default function SubmissionTable({
           </tr>
         </thead>
         <tbody>
-          {submissionList.map((submission) => (
+          {submissions.map((submission: CollectionEntry<"submissions">) => (
             <tr key={submission.slug}>
               <td className="submissiontable_td">
-                <a className="submissiontable_author" href={submission.author.slug}>{submission.author.name}</a>
+                <a
+                  className="submissiontable_author"
+                  href={"/author/" + submission.data.author.slug}
+                >
+                  {submission.data.author.name}
+                </a>
               </td>
               <td className="submissiontable_td">
-                <a href={submission.slug}>{submission.headline}</a>
+                <a className="submissiontable_title" href={"/submission/" + submission.slug}>{submission.data.headline}</a>
               </td>
               <td className="submissiontable_td">
-                <TagsReact tags={submission.tags} />
+                <TagsReact tags={submission.data.tags} />
               </td>
             </tr>
           ))}

@@ -4,37 +4,8 @@ import Layout from "../layouts/Layout.astro";
 import Card from "../components/Card.astro";
 import SubmissionTable from "../components/SubmissionTable";
 
-import type { Submission } from "../types";
-
-let posts: Submission[] = [
-  {
-    image: "/media/bookcover.webp",
-    headline: "Get the book hot off the presses",
-    hook: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum dolor sit amet consectetur. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in.",
-    author: { name: "Tim Lanzendörfer", slug: "tim-lanzendoerfer" },
-    tags: ["announcement"],
-    double: true,
-    slug: "get-the-book-hot-off-the-presses",
-  },
-  {
-    image: "/media/games_600_400.webp",
-    headline: "Silent Hill is basically Innsmouth",
-    hook: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum dolor sit amet consectetur. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in.",
-    author: { name: "Mareike Musterfrau", slug: "mareike-musterfrau" },
-    tags: ["video-games"],
-    double: false,
-    slug: "silent-hill-is-basically-innsmouth",
-  },
-  {
-    image: "/media/filmtv_600_400.webp",
-    headline: "The Call of Cthulhu is basically Innsmouth",
-    hook: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum dolor sit amet consectetur. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in.",
-    author: { name: "Theodor Fontane", slug: "theodor-fontane" },
-    tags: ["tv-film", "podcast"],
-    double: false,
-    slug: "the-call-of-cthulhu-is-basically-innsmouth",
-  },
-];
+import { getCollection, CollectionEntry } from "astro:content";
+const allSubmissions: CollectionEntry<"submissions">[] = await getCollection("submissions");
 ---
 
 <Layout title="Adapting Lovecraft">
@@ -44,14 +15,16 @@ let posts: Submission[] = [
     <div class="section">
       <div class="sideheadline"><h2>Latest Submissions</h2></div>
       <div class="card-grid">
-        {posts.map((post) => <Card submission={post} />)}
+        {allSubmissions
+          .sort((a, b) => new Date(b.data.date).getDate() - new Date(a.data.date).getDate())
+          .map((post) => <Card submission={post} />)}
       </div>
     </div>
     <div class="section">
       <div class="sideheadline"><h2>All Submissions</h2></div>
       <div class="section-right">
         <div class="table-container">
-          <SubmissionTable client:idle submissions={posts} />
+          <SubmissionTable client:idle entries={allSubmissions} />
         </div>
       </div>
     </div>

@@ -1,27 +1,38 @@
 ---
+import { marked } from "marked";
 import Tags from "../components/Tags";
 
-import type { Submission } from "../types";
+import type { CollectionEntry } from "astro:content";
 
 export interface Props {
-  submission: Submission;
+  submission: CollectionEntry<"submissions">;
 }
 
-const {submission} = Astro.props;
+const { submission } = Astro.props;
+
+if (submission.data.image == "") {
+  submission.data.image = "/media/games_600_400.webp";
+}
 ---
 
-<div class={submission.double ? "card double" : "card"}>
-  <img src={submission.image} alt="" />
+<div class={submission.data.double ? "card double" : "card"}>
+  <img src={submission.data.image || "/media/games_600_400.webp"} alt="" />
   <div class="content">
-    <h2><a href={submission.slug}>{submission.headline}</a></h2>
-    <h3><a href={"/author/" + submission.author.slug}>{submission.author.name}</a></h3>
+    <h2>
+      <a href={"/submission/" + submission.slug}>{submission.data.headline}</a>
+    </h2>
+    <h3>
+      <a href={"/author/" + submission.data.author.slug}
+        >{submission.data.author.name}</a>
+    </h3>
     <div class="hook">
       <p>
-        <a href={submission.slug}>
-          {submission.hook}
-        </a>
+        <a
+          href={"submission/" + submission.slug}
+          set:html={marked.parse(submission.data.hook)}
+        />
       </p>
-      <Tags tags={submission.tags} />
+      <Tags tags={submission.data.tags} />
     </div>
   </div>
 </div>
@@ -89,10 +100,10 @@ const {submission} = Astro.props;
     font-size: clamp(0.85rem, 1.7vw, 0.9rem);
     line-height: 1.35;
   }
-	a {
-		color: var(--text);
-		text-decoration: none;
-	}
+  a {
+    color: var(--text);
+    text-decoration: none;
+  }
   h3 a {
     color: var(--grey-text);
   }
