@@ -1,0 +1,139 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Imprint | Adapting Lovecraft">
+  <main>
+    <div class="section">
+      <div class="sideheadline"><h1>Imprint</h1></div>
+      <div class="section-right">
+        <p>
+          PD Dr. Tim Lanzendörfer<br />
+          Goethe-Universität Frankfurt<br />
+          Institut für England- und Amerikastudien<br />
+          Norbert-Wollheim-Platz 1<br />
+          60629 Frankfurt am Main<br />
+          069-79832358
+        </p>
+        <p><strong>Haftungsausschluss</strong></p>
+        <p>Haftung für Inhalte</p>
+        <p>
+          Diese Website dient lediglich der Information. Ihr Inhalt wurde mit
+          größter Sorgfalt zusammengestellt. Eine Haftung oder Garantie für die
+          Aktualität, Richtigkeit und Vollständigkeit der zur Verfügung
+          gestellten Informationen und Daten ist jedoch ausgeschlossen. PD Dr.
+          Tim Lanzendörfer übernimmt insbesondere keinerlei Haftung für
+          eventuelle Schäden oder Konsequenzen, die durch die direkte oder
+          indirekte Nutzung der angebotenen Inhalte entstehen.
+        </p>
+        <p>
+          Hinweise und Korrekturen senden Sie bitte an:
+          tlanzend@em.uni-frankfurt.de
+        </p>
+        <p><strong>Haftung für Links</strong></p>
+        <p>
+          PD Dr. Tim Lanzendörfer ist als Inhaltsanbieter für die eigenen
+          Inhalte, die sie zur Nutzung bereit hält, nach den allgemeinen
+          Gesetzen verantwortlich.
+        </p>
+        <p>
+          Von diesen eigenen Inhalten sind Querverweise (externe Links) auf die
+          von anderen Anbietern bereit gehaltenen Inhalte zu unterscheiden.
+          Diese fremden Inhalte stammen nicht von PD Dr. Tim Lanzendörfer und
+          spiegeln auch nicht die Meinung von PD Dr. Tim Lanzendörfer wider,
+          sondern dienen lediglich der Information. PD Dr. Tim Lanzendörfer hat
+          weder Einfluss auf die Gestaltung und die Inhalte der gelinkten Seiten
+          noch macht er sich diese Inhalte zu eigen.
+        </p>
+        <p>
+          Diese Erklärung gilt für alle auf der Website angezeigten Links und
+          für alle Inhalte der Seiten, zu denen die bei uns angemeldeten Banner
+          und Links führen.
+        </p>
+        <p><strong>Hinweise zum Urheberrecht</strong></p>
+        <p>
+          Alle auf dieser Website veröffentlichten Texte, Bild-, Ton- und
+          Filmdokumente befinden sich im Besitz von PD Dr. Tim Lanzendörfer
+          beziehungsweise der jeweils angegebenen Autoren. Eine – auch
+          auszugsweise – Veröffentlichung in elektronischer oder anderer Form
+          bedarf der ausdrücklichen vorherigen schriftlichen Zustimmung der
+          jeweiligen Rechteinhaber. Bitte setzen Sie sich gegebenenfalls mit PD
+          Dr. Tim Lanzendörfer in Verbindung.
+        </p>
+        <p>Privacy policy</p>
+        <p>
+          Beim Aufrufen dieser Website werden durch den auf Ihrem Endgerät zum
+          Einsatz kommenden Browser automatisch Informationen an den Server
+          unserer Website gesendet. Diese Informationen werden temporär in einem
+          sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr
+          Zutun erfasst und bis zur automatisierten Löschung gespeichert:
+          IP-Adresse des anfragenden Rechners, Datum und Uhrzeit des Zugriffs,
+          Name und URL der abgerufenen Datei, Website, von der aus der Zugriff
+          erfolgt (Referrer-URL), verwendeter Browser und ggf. das
+          Betriebssystem Ihres Rechners sowie der Name Ihres
+          Access-Providers. Die Möglichkeit, diese Daten auf der Rechtsgrundlage
+          nach Art. 6 Abs. 1 S. 1 lit. f DSGVO für Zwecke wie die Gewährleistung
+          eines reibungslosen Verbindungsaufbaus der Website, die Gewährleistung
+          einer komfortablen Nutzung unserer Website, die Auswertung der
+          Systemsicherheit und -stabilität sowie zu weiteren administrativen
+          Zwecken zu nutzen, wird derzeit von mir nicht wahrgenommen. Sollte ich
+          diese Möglichkeit künftig nutzen wollen, werden ich die erhobenen
+          Daten in keinem Fall dafür verwenden, Rückschlüsse auf Ihre Person zu
+          ziehen.
+        </p>
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<style>
+  main {
+    color: var(--text);
+    margin: 0 auto;
+    max-width: 1100px;
+    min-height: 95dvh;
+  }
+  h1 {
+    margin: 0.5rem 1rem 2rem;
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    line-height: 1.2;
+  }
+  main > * + * {
+    margin-bottom: 2rem;
+  }
+  .sideheadline {
+    font-size: 1.3rem;
+    color: var(--grey-text);
+  }
+  .section {
+    margin: 1.5rem;
+    display: grid;
+  }
+  .card-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0;
+  }
+  .section-right {
+    background-color: var(--card);
+    border-radius: 0.5rem;
+		padding: 1rem;
+  }
+  @media (min-width: 800px) {
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(24ch, 1fr));
+    }
+  }
+  @media (min-width: 1080px) {
+    .section {
+      grid-template-columns: 20ch 1fr;
+    }
+    .section-right {
+      margin: 2rem 0 0;
+    }
+  }
+</style>

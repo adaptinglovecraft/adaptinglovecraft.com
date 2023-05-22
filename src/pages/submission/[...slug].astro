@@ -1,0 +1,64 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import Tags from "../../components/Tags";
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const submissions = await getCollection(
+    "submissions"
+  );
+  return submissions.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+// 2. When it's time to render, you can get the entry directly from the prop
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<Layout title={entry.data.headline + " | Adapting Lovecraft"}>
+  <main>
+    <h1>{entry.data.headline}</h1>
+    
+		<div class="text-container">
+      <a href={"/author/" + entry.data.author["slug"]}><h3 class="submission__author">{entry.data.author["name"]}</h3></a>
+      <Tags tags={entry.data.tags} />
+      <!-- {entry.data.image && <img src={entry.data.image} alt="">} -->
+    <Content /></div>
+  </main>
+</Layout>
+
+<style>
+  main {
+    color: var(--text);
+    margin: 0 auto;
+    padding: 0 1.5rem 5rem;
+    max-width: 1100px;
+    min-height: 95dvh;
+  }
+  h1 {
+    margin-top: 0.5rem;
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+  }
+  .submission__author {
+    margin-bottom: 0;
+    color: var(--grey-text)
+  }
+  a {
+    // text-decoration: wavy underline;
+    color: #861c03; !important
+  } 
+  .text-container {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    padding: 0.1rem 1rem;
+    margin: 0 auto;
+    max-width: 70ch;
+    background-color: #000000ee;
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+</style>
