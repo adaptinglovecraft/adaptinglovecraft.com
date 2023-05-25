@@ -17,7 +17,9 @@ The Medial Afterlives of H.P. Lovecraft brings together nineteen essays on theor
 translation, as well as on the distinct medial forms of comics, film &amp; TV, podcasts, video games, and
 board games. Through essays written by scholars from Germany, the U.S., the U.K., the Netherlands,
 Turkey, Saudi Arabia, India, and Thailand, Medial Afterlives of Lovecraft seeks to survey the full range
-of what it means to adapt the writings of Lovecraft. Lovecraft’s writing, often grandiose, verbose, and
+of what it means to adapt the writings of Lovecraft.
+
+Lovecraft’s writing, often grandiose, verbose, and
 resistant to easy visualization, has long been understood to be problematic for adaptation. Lovecraft
 adaptation serves the volume as an instructive problem, one perched between questions of what it
 means to adapt the ostensibly unadaptable, how the boundaries of what the “Lovecraftian” is are
@@ -27,3 +29,5 @@ adaptation of Matt Ruff’s Lovecraft Country to the manga of Japanese artist Go
 podcast production The Lovecraft Investigations and Fantasy Flight Games Arkham Horror board
 games, Medial Afterlives seeks to be both encompassing and deep, granting insight into a variety of
 texts even as it discusses them with attention to their own specific arguments.
+
+![Bookcover](/media/bookcover.webp "Bookcover of 'The Medial Afterlives of H.P. Lovecraft'")
