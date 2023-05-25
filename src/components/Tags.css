@@ -1,40 +1,41 @@
 .tagpill_container {
-	display: flex;
-	flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 .tagpill {
-	font-size: 0.75rem;
-	font-weight: 700;
-	padding: 0.1rem 0.4rem;
-	border-radius: 100rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.1rem 0.4rem;
+  border-radius: 100rem;
+  white-space: nowrap;
 }
 a .tagpill {
-	color: var(--text);
+  color: var(--text);
 }
 .tagpill.announcement {
-	background: var(--announcement);
+  background: var(--announcement);
 }
 .tagpill.video-games {
-	background: var(--video-games);
+  background: var(--video-games);
 }
 .tagpill.podcast {
-	background: var(--podcast);
+  background: var(--podcast);
 }
 .tagpill.tv-film {
-	background: var(--tv-film);
+  background: var(--tv-film);
 }
 .tagpill.comment {
-	background: var(--comment);
+  background: var(--comment);
 }
 .tagpill.concerning-fun {
-	background: var(--concerning-fun);
+  background: var(--concerning-fun);
 }
 .tagpill.comics {
-	background: var(--comics);
+  background: var(--comics);
 }
 .tagpill.tabletop {
-	background: var(--tabletop);
+  background: var(--tabletop);
 }
 .tagpill.written-fiction {
-	background: var(--written-fiction)
+  background: var(--written-fiction);
 }
