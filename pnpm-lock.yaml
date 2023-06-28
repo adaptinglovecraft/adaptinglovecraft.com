@@ -23,9 +23,6 @@ dependencies:
   marked:
     specifier: ^5.1.0
     version: 5.1.0
-  marked-mangle:
-    specifier: ^1.0.1
-    version: 1.0.1(marked@5.1.0)
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -1806,14 +1803,6 @@ packages:
 
   /markdown-table@3.0.3:
     resolution: {integrity: sha512-Z1NL3Tb1M9wH4XESsCDEksWoKTdlUafKc4pt0GRwjUyXaCFZ+dc3g2erqB6zm3szA2IUSi7VnPI+o/9jnxh9hw==}
-    dev: false
-
-  /marked-mangle@1.0.1(marked@5.1.0):
-    resolution: {integrity: sha512-ZmWErsTkfE78OFgrpry2XGh+lYNRePfGy7bGh20l4rWHsH+bciKth1IHQXO9B6Ov5dHmY0jAswvgDxtcxGcFQQ==}
-    peerDependencies:
-      marked: ^4 || ^5
-    dependencies:
-      marked: 5.1.0
     dev: false
 
   /marked@5.1.0:
