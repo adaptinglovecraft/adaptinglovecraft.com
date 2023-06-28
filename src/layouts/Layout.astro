@@ -29,14 +29,13 @@ const { title } = Astro.props;
 <style is:global>
 	@import url('https://fonts.googleapis.com/css2?family=Inter&family=Oswald:wght@300;400;500;700&display=swap');
 	:root {
-		--accent: 124, 58, 237;
-		--accent-gradient: linear-gradient(45deg, rgb(var(--accent)), #da62c4 30%, white 60%);
 		--background-color: #000000;
 		--text: #c0c0c0;
 		--grey-text: #97918f;
 		--link: #861c03;
 		--card: #0e0e0ebb;
 		--page-background: #0e0e0ebb;
+		--footer-background: #4F6272;
 		--announcement: darkgreen;
 		--video-games: darkblue;
 		--podcast: darkred;
@@ -94,7 +93,7 @@ const { title } = Astro.props;
 			Bitstream Vera Sans Mono, Courier New, monospace;
 	}
 	footer {
-		background-color: #4F6272;
+		background-color: var(--footer-background);
 		color: var(--text);
 		padding: 1rem;
 		display: flex;
