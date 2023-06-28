@@ -1,8 +1,8 @@
 ---
-import '../styles/global.css';
+import "../styles/global.css";
 
-import Footer from '../components/Footer.astro';
-import Nav from '../components/Nav.astro';
+import Footer from "../components/Footer.astro";
+import Nav from "../components/Nav.astro";
 
 export interface Props {
 	title: string;
@@ -21,8 +21,34 @@ const { title } = Astro.props;
 	</head>
 	<body>
 		<!-- <div class="sky-dimmer"></div> -->
-		<Nav />
+		<div class="nav-container"><Nav /></div>
 		<slot />
 		<Footer />
 	</body>
 </html>
+
+<style>
+	.sky-dimmer {
+		top: 0;
+		left: 0;
+		height: 110px;
+		width: 100%;
+		background-color: #00000000;
+		z-index: 1;
+		animation-name: sky-dimmer;
+		animation-duration: 7s;
+		animation-iteration-count: infinite;
+		animation-delay: 2s;
+	}
+	@keyframes sky-dimmer {
+		0% {
+			background-color: #00000000;
+		}
+		50% {
+			background-color: #00000088;
+		}
+		100% {
+			background-color: #00000000;
+		}
+	}
+</style>

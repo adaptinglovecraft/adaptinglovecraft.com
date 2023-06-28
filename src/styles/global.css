@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&family=Oswald:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Oswald:wght@300;400;500;700&family=Quattrocento&display=swap');
 :root {
 	--background-color: #000000;
 	--text: #c0c0c0;
@@ -32,47 +32,14 @@ a {
 }
 body {
 	margin: 0;
+	padding-top: 6.85rem;
 	background-image: url('/media/worldsnotvisible_3840_2160.webp');
 	background-size: auto auto;
 	background-position: top;
 }
-.sky-dimmer {
-	top: 0;
-	left: 0;
-	height: 110px;
-	width: 100%;
-	background-color: #00000000;
-	z-index: 1;
-	/* animation-name: sky-dimmer;
-	animation-duration: 7s;
-	animation-iteration-count: infinite;
-	animation-delay: 2s; */
-}
-/* @keyframes sky-dimmer {
-	0% {
-		background-color: #00000000;
-	}
-	50% {
-		background-color: #00000088;
-	}
-	100% {
-		background-color: #00000000;
-	} */
-/* } */
 code {
 	font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
 		Bitstream Vera Sans Mono, Courier New, monospace;
-}
-footer {
-	background-color: var(--footer-background);
-	color: var(--text);
-	padding: 1rem;
-	display: flex;
-	justify-content: start;
-	gap: 1rem;
-}
-footer a {
-	color: var(--gray-text);
 }
 img {
 	max-width: 100%;
