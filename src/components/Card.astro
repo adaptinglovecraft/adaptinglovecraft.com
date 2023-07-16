@@ -3,13 +3,14 @@ import { marked } from "marked";
 
 import Tags from "../components/Tags";
 
-import type { CollectionEntry } from "astro:content";
+import { getEntry, type CollectionEntry } from "astro:content";
 
 export interface Props {
   submission: CollectionEntry<"submissions">;
+  double?: boolean;
 }
 
-const { submission } = Astro.props;
+const { submission, double } = Astro.props;
 
 if (submission.data.image == "") {
   submission.data.image = "/media/games_600_400.webp";
@@ -19,17 +20,19 @@ marked.use({
   mangle: false,
   headerIds: false,
 });
+
+const author: CollectionEntry<"authors"> | undefined = await getEntry(submission.data.author) as CollectionEntry<"authors">;
 ---
 
-<div class={submission.data.double ? "card double" : "card"}>
+<div class={double ? "card double" : "card"}>
   <img src={submission.data.image || "/media/games_600_400.webp"} alt="" />
   <div class="content">
     <h2>
-      <a href={"/submission/" + submission.slug}>{submission.data.headline}</a>
+      <a href={"/submission/" + submission.slug}>{submission.data.title}</a>
     </h2>
     <h3>
       <a href={"/author/" + submission.data.author.slug}
-        >{submission.data.author.name}</a>
+        >{author.data.name}</a>
     </h3>
     <div class="hook">
       <p>

@@ -1,17 +1,16 @@
 ---
-date: "2023-05-21"
+title: The Bestiary of Dusk, a Lovecraftian Love Letter
+hook: The Bestiary of Dusk is an artful homage to Lovecraft as weaver of Dreams,
+  as an author questioning our limited perception of reality and sanity.
+  Lovecraft himself is turned character in this bande dessinée...
+image: /media/comics_600_400.webp
+tags:
+  - comics
+date: 2023-05-21
 draft: false
-double: false
 pinned: false
-author: {name: "Aurélien Buchatz", slug: "aurelien-buchatz"}
-headline: 'The Bestiary of Dusk, a Lovecraftian Love Letter'
-hook: "The Bestiary of Dusk is an artful homage to Lovecraft as weaver of
-Dreams, as an author questioning our limited perception of reality and
-sanity. Lovecraft himself is turned character in this bande dessinée..."
-image: "/media/comics_600_400.webp"
-tags: ["comics"]
+author: aurelien-buchatz
 ---
-
 The Bestiary of Dusk is an artful homage to Lovecraft as weaver of
 Dreams, as an author questioning our limited perception of reality and
 sanity. Lovecraft himself is turned character in this bande dessinée,

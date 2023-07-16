@@ -1,0 +1,51 @@
+backend:
+  name: github
+  repo: "tgeof/adaptinglovecraft.com"
+  branch: feature-cms
+media_folder: "public/media"
+public_folder: "/media"
+site_url: "https://adaptinglovecraft.com"
+collections:
+  - name: "submission"
+    label: "Submission"
+    folder: "src/content/submissions"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}} ({{author}})"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Hook", name: "hook", widget: "text" }
+      - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "list",
+          allow_add: false,
+          default: ["announcement", "tv-film", "tabletop", "podcast", "comment", "comics", "written-fiction", "concerning-fun", "video-games"],
+        }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD",
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Pinned", name: "pinned", widget: "boolean", default: false }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "relation",
+          collection: "author",
+          value_field: "{{slug}}",
+          search_fields: ["name"],
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "author"
+    label: "Author"
+    folder: "src/content/authors"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: "name"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Bio", name: "body", widget: "markdown" }

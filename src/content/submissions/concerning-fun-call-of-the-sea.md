@@ -1,19 +1,20 @@
 ---
-date: "2023-05-09"
+title: "Concerning Fun: Call of the Sea"
+hook: |-
+  *Call of the Sea* was developed by Spanish developer *Out of the Blue*
+  and published to most platforms in 2020. The game draws heavily from the
+  works of H.P. Lovecraft, checking many of the tropes commonly associated
+  with the author's fiction, from fishmen and elder gods to occult rituals
+  and forgotten civilizations.
+image: /media/games_600_400.webp
+tags:
+  - video-games
+  - concerning-fun
+date: 2023-05-09
 draft: false
-double: false
 pinned: false
-author: {name: "Max José Dreysse Passos de Carvalho", slug: "max-dreysse"}
-headline: 'Concerning Fun: Call of the Sea'
-hook: "*Call of the Sea* was developed by Spanish developer *Out of the Blue*
-and published to most platforms in 2020. The game draws heavily from the
-works of H.P. Lovecraft, checking many of the tropes commonly associated
-with the author's fiction, from fishmen and elder gods to occult rituals
-and forgotten civilizations."
-image: "/media/games_600_400.webp"
-tags: ["video-games", "concerning-fun"]
+author: max-dreysse
 ---
-
 *Call of the Sea* was developed by Spanish developer *Out of the Blue*
 and published to most platforms in 2020. The game draws heavily from the
 works of H.P. Lovecraft, checking many of the tropes commonly associated

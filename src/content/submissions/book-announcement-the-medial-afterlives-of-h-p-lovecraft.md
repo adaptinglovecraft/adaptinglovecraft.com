@@ -1,17 +1,16 @@
 ---
-date: "2023-05-22"
+title: "Book Announcement: The Medial Afterlives of H.P. Lovecraft"
+hook: The first extensive discussion of the great range of adaptations of Howard
+  Phillips Lovecraft’s work, The Medial Afterlives of H.P. Lovecraft brings
+  together nineteen essays on theory, copyright, translation...
+image: /media/bookcover.webp
+tags:
+  - announcement
+date: 2023-05-22
 draft: false
-double: true
 pinned: true
-author: {name: "Tim Lanzendörfer", slug: "tim-lanzendoerfer"}
-headline: "Book Announcement: The Medial Afterlives of H.P. Lovecraft"
-hook: "The first extensive discussion of the great range of adaptations of Howard Phillips Lovecraft’s work,
-The Medial Afterlives of H.P. Lovecraft brings together nineteen essays on theory, copyright,
-translation..."
-image: "/media/bookcover.webp"
-tags: ["announcement"]
+author: tim-lanzendoerfer
 ---
-
 The first extensive discussion of the great range of adaptations of Howard Phillips Lovecraft’s work,
 The Medial Afterlives of H.P. Lovecraft brings together nineteen essays on theory, copyright,
 translation, as well as on the distinct medial forms of comics, film &amp; TV, podcasts, video games, and

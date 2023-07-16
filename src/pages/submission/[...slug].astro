@@ -1,6 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getCollection } from "astro:content";
+import { getCollection, getEntry, type CollectionEntry } from "astro:content";
 import Tags from "../../components/Tags";
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -15,14 +15,16 @@ export async function getStaticPaths() {
 // 2. When it's time to render, you can get the entry directly from the prop
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+
+const author: CollectionEntry<"authors"> | undefined = await getEntry(entry.data.author) as CollectionEntry<"authors">;
 ---
 
-<Layout title={entry.data.headline + " | Adapting Lovecraft"}>
+<Layout title={entry.data.title + " | Adapting Lovecraft"}>
   <main>
-    <h1>{entry.data.headline}</h1>
+    <h1>{entry.data.title}</h1>
     
 		<div class="text-container">
-      <a href={"/author/" + entry.data.author["slug"]}><h3 class="submission__author">{entry.data.author["name"]}</h3></a>
+      <a href={"/author/" + entry.data.author.slug}><h3 class="submission__author">{author.data.name}</h3></a>
       <Tags tags={entry.data.tags} />
       <!-- {entry.data.image && <img src={entry.data.image} alt="">} -->
     <Content /></div>
@@ -48,14 +50,14 @@ const { Content } = await entry.render();
     color: var(--grey-text)
   }
   a {
-    // text-decoration: wavy underline;
     color: #861c03; !important
   } 
   .text-container {
+    font-size: 1.125rem;
     line-height: 1.4;
     padding: 0.1rem 1rem;
     margin: 0 auto;
-    max-width: 73ch;
+    max-width: 65ch;
     background-color: #000000ee;
     border-radius: 0.5rem;
     overflow: hidden;

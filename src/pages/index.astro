@@ -6,6 +6,10 @@ import SubmissionTable from "../components/SubmissionTable";
 
 import { getCollection, CollectionEntry } from "astro:content";
 const allSubmissions: CollectionEntry<"submissions">[] = await getCollection("submissions");
+const allSubmissionsWithoutDrafts = allSubmissions.filter((post) => !post.data.draft);
+
+const pinnedSubmissions = allSubmissionsWithoutDrafts.filter((post) => post.data.pinned);
+const unpinnedSubmissions = allSubmissionsWithoutDrafts.filter((post) => !post.data.pinned);
 ---
 
 <Layout title="Adapting Lovecraft">
@@ -15,7 +19,10 @@ const allSubmissions: CollectionEntry<"submissions">[] = await getCollection("su
     <div class="section">
       <div class="sideheadline"><h2>Latest Submissions</h2></div>
       <div class="card-grid">
-        {allSubmissions
+        {pinnedSubmissions
+          .sort((a, b) => new Date(b.data.date).getDate() - new Date(a.data.date).getDate())
+          .map((post) => <Card submission={post} double />)}
+        {unpinnedSubmissions
           .sort((a, b) => new Date(b.data.date).getDate() - new Date(a.data.date).getDate())
           .map((post) => <Card submission={post} />)}
       </div>

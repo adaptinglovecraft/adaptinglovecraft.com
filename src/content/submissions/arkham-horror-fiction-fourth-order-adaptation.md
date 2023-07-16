@@ -1,17 +1,18 @@
 ---
-date: "2023-05-08"
+title: "Arkham Horror Fiction: Fourth-Order Adaptation"
+hook: The board game Arkham Horror has been a staple in the Lovecraft gaming
+  community for 35 years now. First published in 1987, it’s gone through three
+  editions, and has morphed into what the publisher, Fantasy Flight Games, calls
+  the “Arkham Horror Files” on their website.
+image: /media/games_600_400.webp
+tags:
+  - tabletop
+  - written-fiction
+date: 2023-05-08
 draft: false
-double: false
 pinned: false
-author: {name: "Tim Lanzendörfer", slug: "tim-lanzendoerfer"}
-headline: "Arkham Horror Fiction: Fourth-Order Adaptation"
-hook: "The board game Arkham Horror has been a staple in the Lovecraft gaming community for 35 years
-now. First published in 1987, it’s gone through three editions, and has morphed into what the
-publisher, Fantasy Flight Games, calls the “Arkham Horror Files” on their website."
-image: "/media/games_600_400.webp"
-tags: ["tabletop", 'written-fiction']
+author: tim-lanzendoerfer
 ---
-
 The board game Arkham Horror has been a staple in the Lovecraft gaming community for 35 years
 now. First published in 1987, it’s gone through three editions, and has morphed into what the
 publisher, Fantasy Flight Games, calls the “Arkham Horror Files” on their website. This is a host of

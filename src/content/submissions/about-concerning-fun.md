@@ -1,17 +1,18 @@
 ---
-date: "2023-05-07"
+title: About "Concerning Fun"
+hook: Concerning Fun is a regularly published series of essays that critically
+  examines texts from a variety of medial forms, with a focus on games. “Fun”
+  serves as a metaphor for the qualities that are prescribed to the forms
+  through which culture manifests itself.
+image: /media/games_600_400.webp
+tags:
+  - announcement
+  - concerning-fun
+date: 2023-05-07
 draft: false
-double: false
 pinned: false
-author: {name: "Max José Dreysse Passos de Carvalho", slug: "max-dreysse"}
-headline: 'About "Concerning Fun"'
-hook: "Concerning Fun is a regularly published series of essays that critically examines texts from a variety of
-medial forms, with a focus on games. “Fun” serves as a metaphor for the qualities that are prescribed
-to the forms through which culture manifests itself."
-# image: "/media/games_600_400.webp"
-tags: ["concerning-fun", "announcement"]
+author: max-dreysse
 ---
-
 Concerning Fun is a regularly published series of essays that critically examines texts from a variety of
 medial forms, with a focus on games. “Fun” serves as a metaphor for the qualities that are prescribed
 to the forms through which culture manifests itself. In as much as fun is something that games

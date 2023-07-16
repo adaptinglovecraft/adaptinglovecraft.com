@@ -1,9 +1,8 @@
 import { tagMap } from "../maps";
 
-import type { Tag } from "../types";
 import "./Tags.css";
 
-export default function TagsReact({ tags }: { tags: Tag[] }) {
+export default function TagsReact({ tags }: { tags: string[] }) {
   return (
     <div className="tagpill_container">
       {tags.sort((a, b) => a.localeCompare(b))

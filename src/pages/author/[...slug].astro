@@ -1,6 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { getCollection, CollectionEntry } from "astro:content";
+import { getCollection } from "astro:content";
 import SubmissionTable from "../../components/SubmissionTable";
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -14,12 +14,10 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 
-console.log(entry);
-
 const submissionsByThisAuthor = await getCollection(
   "submissions",
   (submission) => {
-    return submission.data.author.name === entry.data.name;
+    return submission.data.author.slug === entry.slug;
   }
 );
 ---
@@ -32,7 +30,7 @@ const submissionsByThisAuthor = await getCollection(
     </div>
     <div class="table-container">
 			<h3>Submissions by {entry.data.name}</h3>
-      <SubmissionTable entries={submissionsByThisAuthor} />
+      <SubmissionTable client:idle entries={submissionsByThisAuthor} />
     </div>
   </main>
 </Layout>
