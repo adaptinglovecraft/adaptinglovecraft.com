@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: "tgeof/adaptinglovecraft.com"
-  branch: feature-cms
+  branch: main
 media_folder: "public/media"
 public_folder: "/media"
 site_url: "https://adaptinglovecraft.com"
