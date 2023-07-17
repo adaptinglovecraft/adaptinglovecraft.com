@@ -8,8 +8,12 @@ import { getCollection, CollectionEntry } from "astro:content";
 const allSubmissions: CollectionEntry<"submissions">[] = await getCollection("submissions");
 const allSubmissionsWithoutDrafts = allSubmissions.filter((post) => !post.data.draft);
 
-const pinnedSubmissions = allSubmissionsWithoutDrafts.filter((post) => post.data.pinned);
-const unpinnedSubmissions = allSubmissionsWithoutDrafts.filter((post) => !post.data.pinned);
+const timefilteredSubmissionsWithoutDrafts = allSubmissionsWithoutDrafts.filter(
+  (post) => new Date(post.data.date).getTime() < new Date().getTime()
+);
+
+const pinnedSubmissions = timefilteredSubmissionsWithoutDrafts.filter((post) => post.data.pinned);
+const unpinnedSubmissions = timefilteredSubmissionsWithoutDrafts.filter((post) => !post.data.pinned);
 ---
 
 <Layout title="Adapting Lovecraft">
