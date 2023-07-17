@@ -35,7 +35,7 @@ const unpinnedSubmissions = timefilteredSubmissionsWithoutDrafts.filter((post) =
       <div class="sideheadline"><h2>All Submissions</h2></div>
       <div class="section-right">
         <div class="table-container">
-          <SubmissionTable client:idle entries={allSubmissionsWithoutDrafts} />
+          <SubmissionTable client:idle entries={timefilteredSubmissionsWithoutDrafts} />
         </div>
       </div>
     </div>
