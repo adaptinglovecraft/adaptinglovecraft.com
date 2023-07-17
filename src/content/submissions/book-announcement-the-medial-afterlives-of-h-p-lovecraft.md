@@ -36,7 +36,7 @@ texts even as it discusses them with attention to their own specific arguments.
     var disqus_config = function () {
         // Replace PAGE_URL with your page's canonical URL variable
         this.page.url = "https://adaptinglovecraft.com/submission/book-announcement-the-medial-afterlives-of-h-p-lovecraft";  
-        this.page.identifier = "Book Announcement"; 
+        this.page.identifier = "book-announcement"; 
     };
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
         var d = document, s = d.createElement('script');
