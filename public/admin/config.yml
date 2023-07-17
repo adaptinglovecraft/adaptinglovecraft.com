@@ -11,7 +11,7 @@ collections:
     folder: "src/content/submissions"
     create: true
     slug: "{{slug}}"
-    summary: "{{title}} ({{author}})"
+    summary: "{{title}} ({{author}}, draft: {{draft}})"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Hook", name: "hook", widget: "text" }
