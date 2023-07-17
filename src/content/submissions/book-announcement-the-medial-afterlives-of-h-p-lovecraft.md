@@ -40,10 +40,7 @@ texts even as it discusses them with attention to their own specific arguments.
     };
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
         var d = document, s = d.createElement('script');
-        
-        // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.src = 'https://adaptinglovecraft.disqus.com/embed.js';
-        
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
