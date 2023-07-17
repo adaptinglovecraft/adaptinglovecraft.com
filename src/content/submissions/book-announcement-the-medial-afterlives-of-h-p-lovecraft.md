@@ -44,7 +44,7 @@ texts even as it discusses them with attention to their own specific arguments.
     /*
     var disqus_config = function () {
         // Replace PAGE_URL with your page's canonical URL variable
-        this.page.url = "https://adaptinglovecraft.com/book-announcement-the-medial-afterlives-of-h-p-lovecraft";  
+        this.page.url = "https://adaptinglovecraft.com/submission/book-announcement-the-medial-afterlives-of-h-p-lovecraft";  
         
         // Replace PAGE_IDENTIFIER with your page's unique identifier variable
         this.page.identifier = "Book Announcement"; 
