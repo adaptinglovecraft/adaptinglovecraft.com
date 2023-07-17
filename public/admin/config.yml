@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: "tgeof/adaptinglovecraft.com"
+  repo: "adaptinglovecraft/adaptinglovecraft.com"
   branch: main
 media_folder: "public/media"
 public_folder: "/media"
