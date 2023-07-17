@@ -20,6 +20,8 @@ const submissionsByThisAuthor = await getCollection(
     return submission.data.author.slug === entry.slug;
   }
 );
+
+const authorSubmissionsWithoutDrafts = submissionsByThisAuthor.filter((post) => !post.data.draft);
 ---
 
 <Layout title={entry.data.name + " | Adapting Lovecraft"}>
@@ -30,7 +32,7 @@ const submissionsByThisAuthor = await getCollection(
     </div>
     <div class="table-container">
 			<h3>Submissions by {entry.data.name}</h3>
-      <SubmissionTable client:idle entries={submissionsByThisAuthor} />
+      <SubmissionTable client:idle entries={authorSubmissionsWithoutDrafts} />
     </div>
   </main>
 </Layout>
