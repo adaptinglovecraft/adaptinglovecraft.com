@@ -33,24 +33,11 @@ texts even as it discusses them with attention to their own specific arguments.
 
 <div id="disqus_thread"></div>
 <script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
-     *  THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR 
-     *  PLATFORM OR CMS.
-     *  
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: 
-     *  https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
     var disqus_config = function () {
         // Replace PAGE_URL with your page's canonical URL variable
         this.page.url = "https://adaptinglovecraft.com/submission/book-announcement-the-medial-afterlives-of-h-p-lovecraft";  
-        
-        // Replace PAGE_IDENTIFIER with your page's unique identifier variable
         this.page.identifier = "Book Announcement"; 
     };
-    */
-    
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
         var d = document, s = d.createElement('script');
         
