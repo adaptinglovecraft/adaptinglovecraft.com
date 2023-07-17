@@ -30,24 +30,3 @@ games, Medial Afterlives seeks to be both encompassing and deep, granting insigh
 texts even as it discusses them with attention to their own specific arguments.
 
 ![Bookcover](/media/bookcover.webp "Bookcover of 'The Medial Afterlives of H.P. Lovecraft'")
-
-<div id="disqus_thread"></div>
-<script>
-    var disqus_config = function () {
-        // Replace PAGE_URL with your page's canonical URL variable
-        this.page.url = "https://adaptinglovecraft.com/submission/book-announcement-the-medial-afterlives-of-h-p-lovecraft";  
-        this.page.identifier = "book-announcement"; 
-    };
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        var d = document, s = d.createElement('script');
-        s.src = 'https://adaptinglovecraft.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>
-    Please enable JavaScript to view the 
-    <a href="https://disqus.com/?ref_noscript" rel="nofollow">
-        comments powered by Disqus.
-    </a>
-</noscript>
