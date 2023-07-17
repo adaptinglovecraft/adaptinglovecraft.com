@@ -26,8 +26,22 @@ const author: CollectionEntry<"authors"> | undefined = await getEntry(entry.data
 		<div class="text-container">
       <a href={"/author/" + entry.data.author.slug}><h3 class="submission__author">{author.data.name}</h3></a>
       <Tags tags={entry.data.tags} />
-      <!-- {entry.data.image && <img src={entry.data.image} alt="">} -->
-    <Content /></div>
+      <Content />
+      <div id="disqus_thread"></div>
+    </div>
+    <script>
+      console.log("script running")
+        var disqus_config = function () {
+            this.page.url = new URL(Astro.url.pathname, Astro.site);  
+            this.page.identifier = new URL(Astro.url.pathname); 
+        };
+        (function() {
+            var d = document, s = d.createElement('script');
+            s.src = 'https://adaptinglovecraft.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
   </main>
 </Layout>
 
