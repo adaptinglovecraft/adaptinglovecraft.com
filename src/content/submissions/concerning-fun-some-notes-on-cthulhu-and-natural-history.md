@@ -4,7 +4,6 @@ hook: Some thoughts on Lovecraft and the Senckenberg Museum of Natural History
   in Frankfurt
 image: /media/games_600_400.webp
 tags:
-  - comment
   - concerning-fun
   - video-games
 date: 2023-07-18
