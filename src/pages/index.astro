@@ -5,15 +5,28 @@ import Card from "../components/Card.astro";
 import SubmissionTable from "../components/SubmissionTable";
 
 import { getCollection, CollectionEntry } from "astro:content";
-const allSubmissions: CollectionEntry<"submissions">[] = await getCollection("submissions");
-const allSubmissionsWithoutDrafts = allSubmissions.filter((post) => !post.data.draft);
+const allSubmissions: CollectionEntry<"submissions">[] = await getCollection(
+  "submissions"
+);
+const allSubmissionsWithoutDrafts = allSubmissions
+  .filter((post) => !post.data.draft)
+  .sort((a, b) => {
+    const aDate = new Date(a.data.date).getTime() / 1000;
+    const bDate = new Date(b.data.date).getTime() / 1000;
+    return bDate - aDate;
+  });
 
 const timefilteredSubmissionsWithoutDrafts = allSubmissionsWithoutDrafts.filter(
   (post) => new Date(post.data.date).getTime() < new Date().getTime()
 );
 
-const pinnedSubmissions = timefilteredSubmissionsWithoutDrafts.filter((post) => post.data.pinned);
-const unpinnedSubmissions = timefilteredSubmissionsWithoutDrafts.filter((post) => !post.data.pinned);
+const pinnedSubmissions = timefilteredSubmissionsWithoutDrafts.filter(
+  (post) => post.data.pinned
+);
+const unpinnedSubmissions = timefilteredSubmissionsWithoutDrafts.filter(
+  (post) => !post.data.pinned
+);
+
 ---
 
 <Layout title="Adapting Lovecraft">
@@ -23,19 +36,24 @@ const unpinnedSubmissions = timefilteredSubmissionsWithoutDrafts.filter((post) =
     <div class="section">
       <div class="sideheadline"><h2>Latest Submissions</h2></div>
       <div class="card-grid">
-        {pinnedSubmissions
-          .sort((a, b) => new Date(b.data.date).getDate() - new Date(a.data.date).getDate())
-          .map((post) => <Card submission={post} double />)}
-        {unpinnedSubmissions
-          .sort((a, b) => new Date(b.data.date).getDate() - new Date(a.data.date).getDate())
-          .map((post) => <Card submission={post} />)}
+        {
+          pinnedSubmissions
+            .map((post) => <Card submission={post} double />)
+        }
+        {
+          unpinnedSubmissions.slice(0, 4)
+            .map((post) => <Card submission={post} />)
+        }
       </div>
     </div>
     <div class="section">
       <div class="sideheadline"><h2>All Submissions</h2></div>
       <div class="section-right">
         <div class="table-container">
-          <SubmissionTable client:idle entries={timefilteredSubmissionsWithoutDrafts} />
+          <SubmissionTable
+            client:idle
+            entries={timefilteredSubmissionsWithoutDrafts}
+          />
         </div>
       </div>
     </div>
