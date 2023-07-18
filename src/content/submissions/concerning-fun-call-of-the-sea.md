@@ -91,7 +91,7 @@ negation: a text can be Lovecraftian simply by not being Lovecraftian.
 The *del Toro inversion* works precisely because it builds on this
 truth: the cultivated expectations of the audience hold that the ugly
 must also be evil, hence "Lovecraft," a shorthand for all sorts of
-backward horror tropes, needn\'t be made explicit to be subverted.
+backward horror tropes, needn't be made explicit to be subverted.
 
 But there is a second reason the *del Toro inversion* is a significant
 concept within Lovecraft adaptation, namely the fact that the binary of
@@ -110,7 +110,7 @@ inescapably, inhabit the position of the colonized. We are objects,
 playthings really, of the elder gods. This realization represents an
 apocalyptic decentering of the default subject position, and it finds
 its strongest metaphor in the monstrous transformations at the heart of
-Lovecraft\'s stories "The Shadow over Innsmouth" and "The Outsider."
+Lovecraft's stories "The Shadow over Innsmouth" and "The Outsider."
 There, the fear of the Other transforms into its opposite: fear of
 *being* the Other. Because the protagonists of these stories suddenly
 find themselves (with shock!) embodying the very identities they had
@@ -152,7 +152,7 @@ husband and coordinates to an unexplored island near Tahiti. She decides
 to travel there, accompanied by intense dreams that feature the
 recurring motif of an island which, wouldn't you know it, turns out to
 be the very one she is headed towards. We learn most of this by
-interacting with photographs and notebooks in Norah\'s ship cabin, the
+interacting with photographs and notebooks in Norah's ship cabin, the
 site of the game's tutorial, and prologue. After this short
 introduction, we arrive on the island and the game proper begins.
 
@@ -162,7 +162,7 @@ In a rather linear fashion, Norah gradually uncovers what happened to
 Harry and his crew, as well as the history of the ancient civilization
 whose otherworldly architecture marks the scenery to this day. As is
 soon understood, Harry sought to learn more about the occult rituals
-practiced by the island\'s now-vanished inhabitants, because legend has
+practiced by the island's now-vanished inhabitants, because legend has
 it they found a way to defeat death itself. From notes and photographs
 scattered across the deserted camps left behind by the expedition, Norah
 gathers that one by one, Harry's crew succumbed to madness and
@@ -180,7 +180,7 @@ took them to a sanctuary where an occult ritual would transform them
 into undying fish beings. Naturally (perhaps?), the existence of Deep
 Ones horrified Harry and his crew. Norah, on the other hand, is less
 disturbed than excited by the revelation. As becomes clear in one of the
-game\'s not-so-surprising twists, she is a descendant of the island\'s
+game's not-so-surprising twists, she is a descendant of the island's
 original people. Her mysterious affliction is not a disease, but a
 symptom of her ongoing transformation. Crucially, this transformation
 necessitates the performance of the primordial ritual in the island's
@@ -189,7 +189,7 @@ by her deceased family members.
 
 The reason Norah's presence signals such a signification alteration to
 what would otherwise be a fairly formulaic conglomerate of Lovecraftian
-tropes is that to her, the island\'s mysteries represent a sliver of
+tropes is that to her, the island's mysteries represent a sliver of
 never-before-felt hope. The consequence of her resulting optimism is
 first and foremost a subtle shift in the atmosphere. Jules Verne-like
 adventure and dreamlike qualities exist across many of Lovecraft's
@@ -227,7 +227,7 @@ the game's soundtrack, its colorful visual aesthetic, and especially
 Norah's spoken commentary didn't frame it all as positively intriguing.
 All of this, excepting only Norah's commentary, feels directly taken out
 of *Myst*, but within the context of a thoroughly Lovecraftian tale. The
-latter thus undergoes the aforementioned shift in tone*: Call of the
+latter thus undergoes the aforementioned shift in ton*e: Call of the
 Sea*'s ancient civilization becomes a site of wonder, rather than
 terror, and the prospect of transformation a prize to be won, rather
 than a sinister fate to be dreaded. When this works, it allows *Call of
@@ -240,8 +240,8 @@ conventions. Where *Myst* can afford to leave many of its mysteries
 unresolved, *Call of the Sea* seems hellbent on explaining what the
 thing in front of you at any given point "means". There are layers to
 this issue. For starters, Norah is a very video-gamey protagonist who
-constantly berates the player with hints of the \"I should have another
-look at that object by the waterfall\"-sort. This Norah is necessarily
+constantly berates the player with hints of the "I should have another
+look at that object by the waterfall"-sort. This Norah is necessarily
 always correct since her function is that of a failsafe against players
 getting stuck. Such handholding is "necessary" in ludic terms because
 contemporary video games apparently cannot afford irregularities in
@@ -267,9 +267,9 @@ both detrimentally affected by this problem, which only goes to show how
 neatly the two might have conversed under slightly different
 circumstances. Such potentialities could be explored via Fisher's
 terminological pairing of the Eerie and the Weird, given how *Myst*'s
-unnaturally empty spaces emphasize the former (\"failure of presence\"),
-and Lovecraft's aliens the latter (\"presence of that which does not
-belong\"). Put a pin in that thought, we might return to it at a later
+unnaturally empty spaces emphasize the former ("failure of presence"),
+and Lovecraft's aliens the latter ("presence of that which does not
+belong"). Put a pin in that thought, we might return to it at a later
 point throughout this series.
 
 The above nagging notwithstanding, *Call of the Sea*'s specific
@@ -304,7 +304,7 @@ Not wanting Norah to choose a life by his side over her own well-being,
 he placed his glasses next to Cassandra's corpse to fake his own death.
 He then escaped from the island to send Norah the package which launched
 her adventure and, so he hoped, her path to salvation. Having learned of
-her husband\'s ultimate sacrifice, Norah is led into a dreamy version of
+her husband's ultimate sacrifice, Norah is led into a dreamy version of
 what is presumably the couple's home.
 
 ![Dreamhouse](/media/cots_dreamhouse.png "Dreamhouse")
@@ -362,8 +362,8 @@ creatures, in turn, would be representative of the communities we are
 taught to regard with disgust, but which become safe havens to the ones
 daring enough to allow themselves to be transformed. Transformation,
 meanwhile, could be any kind of identity-affirming act, from coming out
-to surgery. But, unfortunately, *Call of the Sea*'s narrative is not
-that. Because the game suggests Norah\'s ultimate decision constitutes
+to medical transitioning. But, unfortunately, *Call of the Sea*'s narrative is not
+that. Because the game suggests Norah's ultimate decision constitutes
 an exercise of free will, we have to assume that both options are
 equally plausible. This means that both endings are equally valid
 consequences of the person Norah is at the time she makes her choice.
@@ -401,6 +401,8 @@ against society, but she also doesn't. This society meanwhile is ours,
 but it also isn't. The game is about agency and emancipation, but it
 also undermines player agency by presenting a scripted binary as
 freedom.
+
+edit.: Changed "surgery" for "medical transitioning" toward the end.
 
 [^1]: A similar, albeit not identical argument, appears in Fisher's *The
     Weird and The Eerie*, as well as Hbomberguy's video essay
