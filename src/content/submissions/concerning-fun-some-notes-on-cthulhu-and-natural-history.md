@@ -11,13 +11,13 @@ draft: false
 pinned: false
 author: max-dreysse
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -57,9 +57,9 @@ author: max-dreysse
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -638,9 +638,9 @@ author: max-dreysse
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ author: max-dreysse
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -676,7 +676,7 @@ That time, however, wasn’t just a time of technological primitivity, which is 
 
 ![](/media/photo_2023-05-25_14-14-28-1-.jpg)
 
-What does this mean? Plenty of things, presumably. But it definitely means that a Museum trying to tell the history of nature can no longer exclude the human. The defeated Outside from the colonial era makes way to a universalized Inside. Human intervention is now as significant a part of natural history as the impacts of meteorites, ice ages, or volcanoes are. Nature can no longer serve as civilization’s Other: the excited visitor looking for the strange beasts of another, more primitive world, myself included, begrudgingly faces a mirror.
+What does this mean? Plenty of things, presumably. But it definitely means that a Museum trying to tell the history of nature can no longer exclude the human. The defeated Outside from the colonial era makes way to a universalized Inside. Human intervention is now as significant a part of natural history as the impacts of meteorites, ice ages, or volcanoes are. Nature can no longer serve as civilization’s Other: the excited visitor looking for the strange beasts of another, more primitive world, myself included, begrudgingly faces a mirror. If you've ever been lured into an existential crisis by a nature documentary that pretended to be about cute sea mammals but ended up being about ocean pollution you know the deal. 
 
 This shift also occurs on a formal level. Lovecraft’s use of meticulous description served to parody the very rationality responsible for bringing the dead grizzlies and lions to Frankfurt. It taxidermizes, represents the Other in sharp detail to subdue it in one and the same gesture – nothing resists human reason, because nothing resists categorization and signification. Except in Lovecraft, it eventually does. Hence, his describing subjects eventually fall silent, colonialist language fails, the Outside triumphs by achieving indescribability. But today, this Outside turns out to be an externalized Inside. Nature is shaped by human rationality in very literal ways. The representation of nature thus turns to the representation of human rationality, and what better way to represent contemporary human rationality than with a pile of spreadsheets and pie-charts. Numbers no longer just count the world, they shape and, potentially, destroy it. Entire eco-systems are reduced to “negative externalities” as the economists call them, become subsumed under cost-benefit assessments wherein their complexity is replaced by a quantitative value. The destruction of rain forests begins not with the lighting of a fire, but with the reduction of a tree to a number. In the Senckenberg, any pretense of capturing some authentic, non-human reality is thus abandoned in favor of depicting the act of quantification itself.
 
