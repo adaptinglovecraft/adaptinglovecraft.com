@@ -6,7 +6,7 @@ image: /media/games_600_400.webp
 tags:
   - concerning-fun
   - video-games
-date: 2023-07-18
+date: 2023-06-18
 draft: false
 pinned: false
 author: max-dreysse
