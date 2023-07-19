@@ -22,13 +22,13 @@ On the one hand, *The Empty Man* seems to stand as a prime example for the afore
 
 “\[We] know things are bad, but more than that, \[we] know \[we] can’t do anything about it. But that ‘knowledge’, that reflexivity, is not a passive observation of an already existing state of affairs. It is a self-fulfilling prophecy” (21).
 
-But I wouldn’t be writing these lines, and this piece’s title wouldn’t bear the “Part 1” suffix, if there wasn’t a sense in which the notion of evil texts remained somewhat pertinent even outside of fantasy stories. *Mein Kampf* would be a particularly stark example. But also, and I don’t mean to imply any degree of equivalence here, *Herbert West: Reanimator,* a story that has Lovecraft describe an African American character as a, please excuse me, “loathsome, gorilla-like thing”. Is calling such texts “evil” necessarily as depoliticizing as I’ve made it out to be? And if not, what politics might follow from such an ascription or, in other words, how should we deal with a text we think is evil? I will return to these questions in the next entry to this series. Thanks for reading.
+But I wouldn’t be writing these lines, and this piece’s title wouldn’t bear the “Part 1” suffix, if there wasn’t a sense in which the notion of evil texts remained somewhat pertinent even outside of fantasy stories. *Mein Kampf* would be a particularly stark example. But also, and I don’t mean to imply any degree of equivalence here, *Herbert West: Reanimator,* a story that has Lovecraft describe an African American character as a, please excuse me, “loathsome, gorilla-like thing”. Is calling such texts “evil” necessarily as depoliticizing as I’ve made it out to be? And if not, what politics might follow from such an ascription or, in other words, how should we deal with texts we think are evil? I will return to these questions in the next entry to this series. Thanks for reading.
 
-<!--\\\[if !supportFootnotes]-->
+<!--\\\\[if !supportFootnotes]-->
 
 - - -
 
-<!--\\\[endif]-->
+<!--\\\\[endif]-->
 
 [^1]: There is a kind of limited agency involved in deciding whether or not to read an evil book in *CoC*, but this is a strategic choice that shouldn’t be confused for a moral one: if a character reads the *Necronomicon*, they read it because they want to *defeat* evil (i.e. win the game), not because they *are* evil – which is to say nothing of the fact that whether you succumb to madness ultimately depends less on your decision than on the dice-rolls that follow it. Taking the risk here is a move; a risky one, sure, but not an immoral one (see [Clint Hocking’s urtext on ludonarrative dissonance](https://clicknothing.typepad.com/click_nothing/2007/10/ludonarrative-d.html), which deals with this precise dilemma in game design).
 
