@@ -1,5 +1,5 @@
 ---
-title: "Cthulu Mythos: Hastur, the King in Yellow"
+title: "Cthulhu Mythos: Hastur, the King in Yellow"
 hook: Lovecraft was never shy about his influences, discussing them at length in
   his correspondences, and sometimes referencing them in his work, thus
   expanding the Lovecraftian canon far beyond the reach of his own stories. The
