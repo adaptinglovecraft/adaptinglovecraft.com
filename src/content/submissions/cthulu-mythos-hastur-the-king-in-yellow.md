@@ -11,7 +11,7 @@ image: /media/kind-in-yellow-illustration.jpg
 tags:
   - comment
   - written-fiction
-date: 2023-08-30
+date: 2023-09-06
 draft: true
 pinned: false
 author: aurelien-buchatz
