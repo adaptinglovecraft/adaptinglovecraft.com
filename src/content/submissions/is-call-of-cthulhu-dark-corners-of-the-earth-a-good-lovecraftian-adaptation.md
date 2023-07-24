@@ -4,14 +4,6 @@ hook: "A video essay exploring the (widely panned) 2005 Headfirst Productions
   first-person computer game. Spoilers: maybe."
 image: /media/placeholder-empty-image.jpg
 tags:
-  - announcement
-  - tv-film
-  - tabletop
-  - podcast
-  - comment
-  - comics
-  - written-fiction
-  - concerning-fun
   - video-games
 date: 2023-08-30
 draft: true
