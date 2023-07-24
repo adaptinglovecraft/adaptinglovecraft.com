@@ -12,25 +12,24 @@ draft: false
 pinned: false
 author: max-dreysse
 ---
-
 At some point, any well-meaning Lovecraft character, critic, enthusiast or
 adaptor has to come up with an approach to the delicate problems posed by evil
 texts. When it comes to the former, this strikes us as not very difficult,
 conceptually at least. If you’re the unfortunate protagonist of a Lovecraftian
-tale and happen to stumble over an edition of the _Necronomicon_, you burn it.
+tale and happen to stumble over an edition of the *Necronomicon*, you burn it.
 Perhaps, you perform some ancient ritual of purification. What you don’t do is
 read, critically engage with, copy, distribute, or, god forbid, adapt the
-thing. But what about the latter three, what about outside the mythos, what
+thing. But what if you aren't, what about outside the mythos, what
 about our world? Here, things get complicated. What would an evil text even be?
 Contemporary understanding (even Western) would certainly quarrel with the
 notion of a text being evil solely because it was written by a “mad Arab.”
 Admittedly, none of Lovecraft’s investigators ever suggests that the book is
-evil _because_ its author was someone painted as a scary foreigner. But racism
+evil *because* its author was someone painted as a scary foreigner. But racism
 is undeniably among the reasons why Lovecraft's texts 'work', why they succeed
 in bypassing the reader’s skepticism, why they, despite their absurdity, appear
 somewhat plausible (the default reading-subject interpellated by Lovecraft's
 fiction is White, academic, and cis-male). Consider also his convenient
-omissions of (large parts of) the _Necronomicon_’s content and biographical
+omissions of (large parts of) the *Necronomicon*’s content and biographical
 information about its author, i.e. any kind of data that would enable ambiguous
 readings and risk turning the book’s evilness into a matter of taste. All of
 this is necessary because, under normal circumstances, books aren’t considered
@@ -40,7 +39,7 @@ in any primordial sense and can only “become evil” in so far as they come to
 play a part in the evil plots of actual agents, i.e. people. If you’ve read
 [the last entry to this
 series](https://adaptinglovecraft.com/submission/concerning-fun-some-notes-on-cthulhu-and-natural-history/),
-you probably recognize the argument: the modus operandi of the _Necronomicon_
+you probably recognize the argument: the modus operandi of the *Necronomicon*
 metaphor functions analogously to how I used Cthulhu in regard to climate
 change. It is a way of externalizing human agency, of inscribing it into
 a non-human thing and pretending it no longer has anything to do with us. The
@@ -51,16 +50,16 @@ choice. A Lovecraftian cultist may be corrupted, but their corruption does not
 make them a villain in any immediate sense. Rather, it turns them into
 a puppet, one that follows instructions sent to it from the actual evil above
 or below. Think, for instance, of how hitting zero sanity points in Chaosium’s
-_Call of Cthulhu_ (_CoC_) forces players to relinquish control over their
+*Call of Cthulhu* (*CoC*) forces players to relinquish control over their
 characters, turning the latter into villainous puppets in the DM’s hands. This
-“madness” cuts deeper than, say, that of an Ajax in Sophocles: the mad in _CoC_
+“madness” cuts deeper than, say, that of an Ajax in Sophocles: the mad in *CoC*
 are bereft not just of their capacity for intentional action, i.e. knowing what
 they are doing, but of intention itself, of subjectivity altogether. In the
 game, reading “tomes of eldritch lore” stands easily as the most sanity
 straining activity, promising knowledge of forgotten spells and other
 mysterious Cthulhu stuff in return. Losing the struggle against an evil book in
-_CoC_ by failing some dice rolls means going insane, which means getting
-evicted from your character’s body. Since the player’s _is_ the character’s
+*CoC* by failing some dice rolls means going insane, which means getting
+evicted from your character’s body. Since the player’s *is* the character’s
 subjectivity in the game or, at the very least, the possibility for the latter
 emerges within the former, the evil book’s victory lies in turning character
 into setting, subject into object, human into body. When the lost character
@@ -71,7 +70,7 @@ to safety. They aren’t evil, the power controlling them is.[^1]
 
 Some Lovecraftian texts go one step further and suggest that the failure of
 ascribing responsibility to individuals leads to a collapse of morality
-altogether. In David Prior’s 2020 film _The Empty Man_, a police chief despairs
+altogether. In David Prior’s 2020 film *The Empty Man*, a police chief despairs
 over his investigation of a series of occult homicides. At all crime scenes,
 cops encounter the same sentence, “The Empty Man made me do it”, written using
 the victim’s blood for ink. The problem: there is no missing serial-killer, in
@@ -86,9 +85,9 @@ the police can do nothing but to punish the unfortunate individuals through
 whom he acts. The chief ruminates:
 
 “Sure, we can put \[the perpetrators] in prison. But that’s not solving it.
-It’s inexplicable. It’s too big. _We can’t indict the cosmos_.”
+It’s inexplicable. It’s too big. *We can’t indict the cosmos*.”
 
-On the one hand, _The Empty Man_ seems to stand as a prime example for the
+On the one hand, *The Empty Man* seems to stand as a prime example for the
 aforementioned tendency of cosmic horror to externalize human activity and bind
 it to a fictional entity beyond our control. The allegorical content of the
 film’s cthulhuian antagonist is a social structure naturalized to the point of
@@ -105,14 +104,14 @@ emerges as a consequence of supernatural intervention. In so doing, it raises
 the question of why the problem faced by the chief feels so hauntingly familiar
 when really, our reality is so different from the one depicted in the film. The
 Empty Man objectively resides beyond human grasp, so it is only natural that
-state violence should be powerless against him. _But why is it powerless
-against Hollywood?_ I’d argue that herein lies the reason we must insist that
-the _Necronomicon_ can only be plausibly evil in fictional space where instead
+state violence should be powerless against him. *But why is it powerless
+against Hollywood?* I’d argue that herein lies the reason we must insist that
+the *Necronomicon* can only be plausibly evil in fictional space where instead
 of humans, all we have are characters, i.e. beings that by their very nature do
 not possess any kind of meaningful historical agency – they do what they’re
 written to do, and that’s the only reason their reality has a conceptual space
 for evil objects. This is a crucial distinction to make, for as Mark Fisher
-points out in _Capitalist Realism_, the naturalization of humanity’s non-agency
+points out in *Capitalist Realism*, the naturalization of humanity’s non-agency
 is a key feature of our contemporary predicament:
 
 “\[We] know things are bad, but more than that, \[we] know \[we] can’t do
@@ -122,9 +121,9 @@ prophecy” (21).
 
 But I wouldn’t be writing these lines, and this piece’s title wouldn’t bear the
 “Part 1” suffix, if there wasn’t a sense in which the notion of evil texts
-remained somewhat pertinent even outside of fantasy stories. _Mein Kampf_ would
+remained somewhat pertinent even outside of fantasy stories. *Mein Kampf* would
 be a particularly stark example. But also, and I don’t mean to imply any degree
-of equivalence here, _Herbert West: Reanimator,_ a story that has Lovecraft
+of equivalence here, *Herbert West: Reanimator,* a story that has Lovecraft
 describe an African American character as a, please excuse me, “loathsome,
 gorilla-like thing”. Is calling such texts “evil” necessarily as depoliticizing
 as I’ve made it out to be? And if not, what politics might follow from such an
@@ -132,13 +131,13 @@ ascription or, in other words, how should we deal with texts we think are evil?
 I will return to these questions in the next entry to this series. Thanks for
 reading.
 
----
+- - -
 
 [^1]:
     There is a kind of limited agency involved in deciding whether or not to
-    read an evil book in _CoC_, but this is a strategic choice that shouldn’t be
-    confused for a moral one: if a character reads the _Necronomicon_, they read it
-    because they want to _defeat_ evil (i.e. win the game), not because they _are_
+    read an evil book in *CoC*, but this is a strategic choice that shouldn’t be
+    confused for a moral one: if a character reads the *Necronomicon*, they read it
+    because they want to *defeat* evil (i.e. win the game), not because they *are*
     evil – which is to say nothing of the fact that whether you succumb to madness
     ultimately depends less on your decision than on the dice-rolls that follow it.
     Taking the risk here is a move; a risky one, sure, but not an immoral one (see
