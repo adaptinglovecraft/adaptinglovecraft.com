@@ -90,14 +90,13 @@ It’s inexplicable. It’s too big. *We can’t indict the cosmos*.”
 On the one hand, *The Empty Man* seems to stand as a prime example for the
 aforementioned tendency of cosmic horror to externalize human activity by binding
 it to a fictional entity beyond our control (a move that essentially amounts to an aesthetic equivalent of reification). The experience which is allegorized by the
-film’s cthulhuian antagonist is that of living in a social structure naturalized to the point of
-becoming an unnegotiable, ahistorical truth of human existence. The dilemma of
+film’s cthulhuian antagonist is that of living in a social totality that individualizes while at the same time rendering choice that takes place on an individual level utterly insignificant. The dilemma of
 police intervention, in the film as in late Capitalism, lies in the social
-contingence of crime itself: punishing individuals never gets to the forces
+contingence of crime itself: punishing transgressions never gets to the forces
 producing violent actors in the first place, elder Gods in the former,
-patriarchy/racism/poverty/etc. in the latter. Man in both appears as "empty", a vessel through which greater forces enact their will. Punishment of the guilty is mere performance, justice a sham. Cops of the neoliberal state can
-indict Harvey Weinstein, but just like they can’t indict the cosmos, they can’t
-indict Hollywood. On the other hand, the film’s marked surrealism goes a long
+patriarchy/racism/poverty/etc. in the latter. Man in the 21st century too appears as "empty", as little more than a vessel through which greater forces enact their will. Punishment of the guilty is mere performance, justice a sham. The neoliberal state can
+indict Harvey Weinstein, but just like it can’t indict the cosmos, it can’t
+indict patriarchy. On the other hand, the film’s marked surrealism goes a long
 way of undermining the naturalization of man's emptyness: it
 paints a scenario wherein a crisis of the modern disciplinary regime only
 emerges as a consequence of supernatural intervention. In so doing, it raises
@@ -105,7 +104,7 @@ the question of why the problem faced by the chief feels so hauntingly familiar
 when really, our reality is so different from the one depicted in the film. The
 Empty Man objectively resides beyond human grasp, so it is only natural that
 state violence should be powerless against him. *But why is it powerless
-against Hollywood?* I’d argue that herein lies the reason we must insist that
+against patriarchy?* I’d argue that herein lies the reason we must insist that
 the *Necronomicon* can only be plausibly evil in fictional space where instead
 of humans, all we have are characters, i.e. beings that by their very nature do
 not possess any kind of meaningful historical agency – they do what they’re
