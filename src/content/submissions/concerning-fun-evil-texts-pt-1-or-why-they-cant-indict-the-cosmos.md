@@ -95,10 +95,10 @@ becoming an unnegotiable, ahistorical truth of human existence. The dilemma of
 police intervention, in the film as in late Capitalism, lies in the social
 contingence of crime itself: punishing individuals never gets to the forces
 producing violent actors in the first place, elder Gods in the former,
-patriarchy/racism/poverty/etc. in the latter. Cops of the neoliberal state can
+patriarchy/racism/poverty/etc. in the latter. Man in both appears as "empty", a vessel through which greater forces enact their will. Punishment of the guilty is mere performance, justice a sham. Cops of the neoliberal state can
 indict Harvey Weinstein, but just like they can’t indict the cosmos, they can’t
 indict Hollywood. On the other hand, the film’s marked surrealism goes a long
-way of highlighting the contrivances underlying the modern penal state: it
+way of undermining the naturalization of man's emptyness: it
 paints a scenario wherein a crisis of the modern disciplinary regime only
 emerges as a consequence of supernatural intervention. In so doing, it raises
 the question of why the problem faced by the chief feels so hauntingly familiar
@@ -119,7 +119,7 @@ anything about it. But that ‘knowledge’, that reflexivity, is not a passive
 observation of an already existing state of affairs. It is a self-fulfilling
 prophecy” (21).
 
-But I wouldn’t be writing these lines, and this piece’s title wouldn’t bear the
+In our world, man is empty only under specific historic circumstances, circumstances that entail the constant repetition of the claim that man is empty by nature (for else man would rebel against these circumstances). Be on the look-out for these claims, they are all around us. But I wouldn’t be writing these lines, and this piece’s title wouldn’t bear the
 “Part 1” suffix, if there wasn’t a sense in which the notion of evil texts
 remained somewhat pertinent even outside of fantasy stories. *Mein Kampf* would
 be a particularly stark example. But also, and I don’t mean to imply any degree
