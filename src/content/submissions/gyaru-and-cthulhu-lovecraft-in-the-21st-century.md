@@ -1,12 +1,9 @@
 ---
 title: Gyaru and Cthulhu, Lovecraft in the 21st century
-hook: Myriad of gruesome worlds and harrowing galaxies sprung forth under the
-  influence of the Man of Providence, birthed by the millions of artists he
-  inspired. We shall now embark on a journey to the very frontier of that
-  extended Lovecraft universe, exploring the peppy, bright neon-coloured ‘gag
-  slice-of-life’ manga ‘Gyaru and Cthulhu’ by Japanese author Pontogotanda, as
-  we follow 17-year-old high school girl Futaba on her way to become Japan’s
-  most famous pop singer. You didn’t expect that now, did you?
+hook: Let's embark on a journey to the very frontier of the extended Lovecraft
+  universe, exploring the peppy, bright neon-coloured manga ‘Gyaru and Cthulhu’
+  , as we follow 17-year-old high school girl Futaba on her way to become
+  Japan’s most famous pop singer. You didn’t expect that now, did you?
 image: /media/placeholder-empty-image.jpg
 tags:
   - comics
