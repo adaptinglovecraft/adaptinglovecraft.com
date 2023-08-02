@@ -11,7 +11,7 @@ image: /media/placeholder-empty-image.jpg
 tags:
   - comics
 date: 2023-08-02
-draft: true
+draft: false
 pinned: false
 author: aurelien-buchatz
 ---
