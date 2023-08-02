@@ -90,7 +90,7 @@ It’s inexplicable. It’s too big. *We can’t indict the cosmos*.”
 On the one hand, *The Empty Man* seems to stand as a prime example for the
 aforementioned tendency of cosmic horror to externalize human activity by binding
 it to a fictional entity beyond our control (a move that essentially amounts to an aesthetic equivalent of reification). The experience which is allegorized by the
-film’s cthulhuian antagonist is that of living in a social totality that individualizes while at the same time rendering choice that takes place on an individual level utterly insignificant. The dilemma of
+film’s cthulhuian antagonist is that of living in a social totality that individualizes responsibility while at the same time rendering choice that takes place on an individual level utterly insignificant. The dilemma of
 police intervention, in the film as in late Capitalism, lies in the social
 contingence of crime itself: punishing transgressions never gets to the forces
 producing violent actors in the first place, elder Gods in the former,
