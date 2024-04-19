@@ -7,7 +7,7 @@ tags:
   - concerning-fun
   - video-games
 date: 2024-04-17
-draft: true
+draft: false
 pinned: false
 author: max-dreysse
 ---
