@@ -11,14 +11,14 @@ draft: false
 pinned: false
 author: max-dreysse
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -57,9 +57,9 @@ author: max-dreysse
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -638,9 +638,9 @@ author: max-dreysse
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -670,13 +670,13 @@ author: max-dreysse
 	mso-ansi-language:#0C00;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
 **Concerning Fun: Politicizing Ludonarrative Dissonance**
 
-This piece will tackle a notion that is arguably among game studies’ most prolific terms: ludonarrative dissonance. In case you haven’t heard of it, we will begin with some attempts at defining the notion. Arreola-Jones characterizes ludonarrative dissonance as “the phenomenological experience triggered when **a video game’s story and its ludic structure are disharmonious** … \[it] warns game developers against placing the player in a contradictory condition, arguing that if the actions a game compels us to make are ideologically mismatched to the unfolding story, then **immersion is interrupted**”. Makedonski puts it in similar terms, stating that “when a game tells the player one thing through its story and environment, and then contradicts it though gameplay, **the player becomes unimmersed and disconnected from the experience ...”.** Ludonarrative dissonance, in the glorious diction of James Stephanie Sterling, is “when you’re supposed to feel bad for stabbing one single dog after hours of being conditioned to see . . . dogs as annoying tripmine fodder” (Sterling). From Youtube comments to steam reviews, video essays, reddit-posts and mainstream journalism: in quantitative terms, ludonarrative dissonance is arguably *the* theoretical concept of gaming culture. Personally, I too count several texts dealing with ludonarrative dissonance among my absolute favorite pieces of writing on video games *period*. The concept has, unquestionably, helped gaming culture identify and articulate a range of grievances concerning popular game design norms that were and continue to be deeply problematic. I am, by and large, happy it exists. But, and that’s unsurprisingly what this piece will be about, I also have some issues with ludonarrative dissonance. I do not intend to trash the concept or any of its advocates. Instead, my hope is that by naming and discussing these issues, we can improve our grasp on ludonarrative dissonance and by extension sharpen the ways in which we make qualitative judgements about games.
+This piece will tackle a notion that is arguably among game studies’ most prolific terms: ludonarrative dissonance. In case you haven’t heard of it, here are some attempts at defining the notion. Arreola-Jones characterizes ludonarrative dissonance as “the phenomenological experience triggered when **a video game’s story and its ludic structure are disharmonious** … \[it] warns game developers against placing the player in a contradictory condition, arguing that if the actions a game compels us to make are ideologically mismatched to the unfolding story, then **immersion is interrupted**”. Makedonski puts it in similar terms, stating that “when a game tells the player one thing through its story and environment, and then contradicts it though gameplay, **the player becomes unimmersed and disconnected from the experience ...”.** Ludonarrative dissonance, in the glorious diction of James Stephanie Sterling, is “when you’re supposed to feel bad for stabbing one single dog after hours of being conditioned to see . . . dogs as annoying tripmine fodder” (Sterling). From Youtube comments to steam reviews, video essays, reddit-posts and mainstream journalism: in quantitative terms, ludonarrative dissonance is arguably *the* theoretical concept of gaming culture. Personally, I too count several texts dealing with ludonarrative dissonance among my absolute favorite pieces of writing on video games *period*. The concept has, unquestionably, helped gaming culture identify and articulate a range of grievances concerning popular game design norms that were and continue to be deeply problematic. I am, by and large, happy it exists. But, and that’s unsurprisingly what this piece will be about, I also have some issues with ludonarrative dissonance. I do not intend to trash the concept or any of its advocates. Instead, my hope is that by naming and discussing these issues, we can improve our grasp on ludonarrative dissonance and by extension sharpen the ways in which we make qualitative judgements about games.
 
 Briefly put, my discomfort with ludonarrative dissonance reads something like this: there exists a disconnect between what *I think* the concept effectively does (i.e. the phenomena it is used to refer to), and what its semantics imply. Popular concepts tend to catch on precisely because they succeed in arranging existing expressions/morphemes into an immediately comprehensible nametag for an hitherto unnamable phenomenon. Given its tremendous popularity, I think it’s fair to assume that the semantics of ludonarrative dissonance succeeded in doing just that: this particular constellation of morphemes, “ludo-“, “-narrative”, and “dissonance”, manages to articulate something about the way many people think and talk about games. But the way the concept gets thrown around more often than not clashes with the way *I* think and talk about games. I am therefor convinced that the semantic confusion is indicative for an underlying disagreement pertaining to what we think the nature of games is, where their purpose lies, how we consume them, and what the goals of our conversations about them should be. Ultimately, as I want to argue, the disagreement is political. If it sounds like I am inflating the relevance of this thing... please hear me out anyway! I am almost sure I am making sense here. To make my case, I want to explicate some of the argumentative positions that I think are presupposed when ludonarrative dissonance is evoked so I can juxtapose them with my own. With some luck (on my part) and patience (on yours), this might just lead to productive debate.
 
