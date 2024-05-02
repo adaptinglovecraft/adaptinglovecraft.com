@@ -8,15 +8,8 @@ hook: "In November 2021, Elder Craft published this neat little tabletop RPG
   what this adaptation looks like."
 image: /media/games_600_400.webp
 tags:
-  - announcement
-  - tv-film
   - tabletop
-  - podcast
   - comment
-  - comics
-  - written-fiction
-  - concerning-fun
-  - video-games
 date: 2024-04-30
 draft: false
 pinned: false
