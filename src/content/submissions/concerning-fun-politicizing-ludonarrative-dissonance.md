@@ -11,14 +11,14 @@ draft: false
 pinned: false
 author: max-dreysse
 ---
-<!--\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -57,9 +57,9 @@ author: max-dreysse
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -638,9 +638,9 @@ author: max-dreysse
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\[if gte mso 10]>
+<!--\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -670,18 +670,18 @@ author: max-dreysse
 	mso-ansi-language:#0C00;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\\\\[endif]-->
+<!\\\\\\\\\[endif]-->
 
 <!--StartFragment-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -720,9 +720,9 @@ author: max-dreysse
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1301,9 +1301,9 @@ author: max-dreysse
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 10]>
+<!--\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1333,7 +1333,7 @@ author: max-dreysse
 	mso-ansi-language:#0C00;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\[endif]-->
+<!\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1353,7 +1353,7 @@ Hocking’s argument relies on a series of references to the subjective (*Biosho
 
 The average consumer does not share Hocking’s interpretative reflex; hence, they tend to care little about what critics dub ludonarrative dissonance. Since what we are really talking about is “meaning”, the problem with the ostensibly “dissonant” game really transcends the frame of the game: it has to do with how the game relates to our world and, consequently, with politics. To note this kind of dissonance demands a complete and utter refusal of the idea that “it’s just a game”, that all it ought to achieve is be fun to “you”, be immersive, i.e. conducive to your private flow experience. Take another often discussed example of ludonarrative dissonance: *Uncharted*’s Nathan Drake being a lovable guy during cutscenes and a genocidal mass murderer during gameplay is a contradiction only if we as society agree it is (Goodall, “Player Disconnected?”). *Uncharted*’s commercial success, which suggests that no dissonance seems to impair the flow experience of its average consumer, is exposing. Within our ideological framework, lovable white guys who murder POC by the hundreds are apparently not an oxymoron. Or, as Mark Fisher would put it and more accurately: they are, but we act/police/vote/consume and in this case play as if they were not (12-3). The ethical hypocrisy of bourgeois life is narratively enabled by a cultural industry that eagerly simulates conditions wherein real-world contradictions are symbolically resolved: the evil guys in *Uncharted* always shoot first, are impossible to negotiate with, will inevitably cast the world into disaster – if Nathan does not kill them first. Real violence always produces contradictions. War is dirty: it does not deal in heroes but in villains. Nathan Drake, on the other hand, *is* a hero. Where dissonance would reveal contradiction, what *Uncharted* does is conceal it: in its story world, Drake’s violence is without alternative and always leads to good consequences. Problematically, rather than disrupting immersion, most of the phenomena referred to under the header of ludonarrative dissonance are really among the formal-rhetorical devices games employ to enable it. Players perceive the act of killing in *Uncharted* as unproblematic not *despite*, but *because* of the reassuring cutscenes. These establish Nathan as a good guy with family values, friends, etc., and thereby frame him as a legitimate purveyor of deadly force.
 
-And this, I believe, is what it all comes down to. The legitimacy of Nathan Drake’s violence is ultimately established in much the same way as that of a John Wick or a John McLane: Whether it’s via a classical “kick the dog”-moment or through a horrific hostage situation, what all these characters have in common is that their narratives conjure circumstances wherein their violent exploits appear as inevitable or at the very least justified. And in as much as narrative is a lens through which we view the world, these propagandistic qualities of the media we consume must strike us as problematic: the same subjects who are on a daily basis conditioned to view certain kinds of violence as legitimate are then asked to vote on issues like border security or the policing of marginalized populations. From this angle, another problematic surrounding the field of ludonarrative dissonance begins to take shape, namely the question in how far these phenomena are specific to "ludo-"narratives to begin with. My tentative position is that what we are looking at is a particular, specific-to-games manifestation of a more fundamental and nigh universal feature of cultural production under late capitalism. Put differently, I do not think that AAA game developers in general are looking for better ways of telling stories (as Hocking muses toward the end of his 2007 essay), because quite frankly I do not believe the phenomena discussed are viewed as problems to begin with. Telling stories wherein certain power fantasies and forms of violence are legitimized or even celebrated are stables of commercial cultural production – why should “ludo-“narratives be any different? When reading Hocking, one gets the sense that the videogame industry is collectively trying their hardest to best some as of yet unmastered formal test posed by the ‘new’ medium. This "we as an industry""-rhetoric entails an epistemically fraud universalization of AAA game production with a blind eye turned to everything happening in the indie space. It may be a cheap shot, but this seems like as good a place as any to point out that Hocking spent most of his professional life before and after *Ludonarrative Dissonance in Bioshock* working for some of the most powerful videogame corporations on the planet. I do not think AAA-games end up aesthetically primitive, apolitical, or reactionary because of the intricacies of games as a "new" form of storytelling. By 2007, independent game developers had already produced incredibly expressive works of art: if anything, it was game production on a corporate scale, on Hocking’s scale, that hadn’t caught up and didn’t plan to. More plausibly, therefor, the problems of games like *Bioshock* can be attributed to market forces. As pointed out above, allegedly ludonarratively dissonant games have seldom struggled to find an audience, at least not on account of being dissonant. What makes “dissonance” a poorly chosen word, then, is also what ensures such games aren’t going anywhere. I am talking about the fact, of course, that the paying customer either does not notice or does not care about any of it.
+And this, I believe, is what it all comes down to. The legitimacy of Nathan Drake’s violence is ultimately established in much the same way as that of a John Wick or a John McLane: Whether it’s via a classical “kick the dog”-moment or through a horrific hostage situation, what all these characters have in common is that their narratives conjure circumstances wherein their violent exploits appear as inevitable or at the very least justified. And in as much as narrative is a lens through which we view the world, these propagandistic qualities of the media we consume must strike us as problematic: the same subjects who are on a daily basis conditioned to view certain kinds of violence as legitimate are then asked to vote on issues like border security or the policing of marginalized populations. From this angle, another problematic surrounding the field of ludonarrative dissonance begins to take shape, namely the question in how far these phenomena are specific to "ludo-"narratives to begin with. My tentative position is that what we are looking at is a particular, specific-to-games manifestation of a more fundamental and nigh universal feature of cultural production under late capitalism. For that reason, I also do not think that AAA game developers in general are looking for better ways of telling stories (as Hocking muses toward the end of his 2007 essay), because quite frankly I do not believe the phenomena discussed are viewed as problems to begin with. Telling stories wherein certain power fantasies and forms of violence are legitimized or even celebrated are stables of commercial cultural production – why should “ludo-“narratives be any different? When reading Hocking, one gets the sense that the videogame industry is collectively trying their hardest to best some as of yet unmastered formal test posed by the ‘new’ medium. This "we as an industry""-rhetoric entails an epistemically fraud universalization of AAA game production with a blind eye turned to everything happening in the indie space. It may be a cheap shot, but this seems like as good a place as any to point out that Hocking spent most of his professional life before and after *Ludonarrative Dissonance in Bioshock* working for some of the most powerful videogame corporations on the planet. I do not think AAA-games end up aesthetically primitive, apolitical, or reactionary because of the intricacies of games as a "new" form of storytelling. By 2007, independent game developers had already produced incredibly expressive works of art: if anything, it was game production on a corporate scale, on Hocking’s scale, that hadn’t caught up and didn’t plan to. More plausibly, therefor, the problems of games like *Bioshock* can be attributed to market forces. As pointed out above, allegedly ludonarratively dissonant games have seldom struggled to find an audience, at least not on account of being dissonant. What makes “dissonance” a poorly chosen word, then, is also what ensures such games aren’t going anywhere. I am talking about the fact, of course, that the paying customer either does not notice or does not care about any of it.
 
 My concerns with ludonarrative dissonance would amount to little more than semantic nitpicking if they didn’t relate to a broader problem in gaming culture generally, and game studies more specifically. That problem, borrowing Hocking’s diction one more time, is a lack of “critique”. Critique, in my view, names an inquisitive stance that has the critic introduce a methodical distance between themselves and their object of inquiry. That object tends to be an ordinary part of life – an advertisement, a ritual, the speech of some politician, a work of art, anything at all really ­– with the caveat that it is usually, under ordinary circumstances, experienced rather intuitively and therefor passively. We might say, for instance, that critique lies in thinking *about* eating, as opposed to engaging in the act of eating itself. Immediate experience is subjective, private, and impossible to convey in all its complexity – **it is therefore an essentially apolitical category**. Critique, on the other hand, seeks to translate aesthetic experience into objective categories, i.e. perform the movement from the private to the public. The knowledge it aims to produce is anything but subjective: its claim is that there is an objective core to the thing discussed, one that persists across all the incommensurably distinct individual modes of reception. Whatever you may *feel* about *Lord of the Rings*, it is still about Hobbits trying to destroy a Ring and not about a replicant-retiring Blade Runner. The possibility of democratic politics is predicated on our capacity to produce such knowledge and to collectively accept it as objective (e.g. man-made climate change exists, nobody gets to dismiss it on account of not *feeling* it). Part of the problem we face, and here we have to make a quick detour into Marxist terminology, is that the commodity-form opposes precisely that kind of knowledge: it encourages “private attachments rather than public judgments” (Brown 7). In a thoroughly commodified world, debates of meaning naturally come to be frowned upon: the market could not care less about what the consumer does with/thinks about a product, as long as they purchase it. **The commodified society’s ethics are shaped by a radically consumerist ideology: your private enjoyment of *Call of Duty* is valid, the commodity-form says, anyone arguing the game is imperialist propaganda is a moralizing elitist**. Unless, of course, *you* are the one who feels the game is imperialist propaganda. In that case, openly acknowledge the game’s problematic politics and consume away. Any mode of reception at all is justified, really. There is no objective truth about the commodity, only an endless series of dispersed, but equally valid subjective moments of consumption.
 
