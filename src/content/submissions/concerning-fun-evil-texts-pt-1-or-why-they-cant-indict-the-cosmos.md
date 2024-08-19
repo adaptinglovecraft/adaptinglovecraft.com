@@ -112,7 +112,7 @@ anything about it. But that ‘knowledge’, that reflexivity, is not a passive
 observation of an already existing state of affairs. It is a self-fulfilling
 prophecy” (21).
 
-In our world, man is empty only under specific historic circumstances, circumstances that entail the constant repetition of the claim that man is empty by nature (for else man would rebel against these circumstances). Be on the look-out for these claims, they are all around us. But I wouldn’t be writing these lines, and this piece’s title wouldn’t bear the
+In our world, man is empty only under specific historic circumstances, circumstances that entail the constant repetition of the claim that man is empty by nature (for else man would rebel against these circumstances). Fictional characters, on the other hand, are indeed written by greater forces and are therefore thoroughly determined by them. Ascribing human qualities like "goodness" or "evilness" to a ring in Middle Earth makes as little or as much sense as ascribing them to a character. Both usages are fine if they are understood to refer to specific functions these objects fulfill within their narratives. They simply work in a different register from actual ethical judgements. Or do they? I wouldn’t be writing these lines, and this piece’s title wouldn’t bear the
 “Part 1” suffix, if there wasn’t a sense in which the notion of evil texts
 remained somewhat pertinent even outside of fantasy stories. *Mein Kampf* would
 be a particularly stark example. But also, and I don’t mean to imply any degree
