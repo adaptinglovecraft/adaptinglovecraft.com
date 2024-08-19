@@ -32,7 +32,7 @@ fiction is White, academic, and cis-male). Consider also his convenient
 omissions of (large parts of) the *Necronomicon*’s content and biographical
 information about its author, i.e. any kind of data that would enable ambiguous
 readings and risk turning the book’s evilness into a matter of taste. All of
-this is necessary because, under normal circumstances, books aren’t considered
+this is helpful because, under normal circumstances, books aren’t considered
 capable of being moral agents; they are things. They come with content and
 a context of production, including some form of authorship. Books aren’t evil
 in any primordial sense and can only “become evil” in so far as they come to
