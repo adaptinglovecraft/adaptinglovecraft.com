@@ -49,13 +49,7 @@ make them a villain in any immediate sense. Rather, it turns them into
 a puppet, one that follows instructions sent to it from the actual evil above
 or below. Think, for instance, of how hitting zero sanity points in Chaosium’s
 *Call of Cthulhu* (*CoC*) forces players to relinquish control over their
-characters, turning the latter into villainous puppets in the DM’s hands. This
-“madness” cuts deeper than, say, that of an Ajax in Sophocles: the mad in *CoC*
-are bereft not just of their capacity for intentional action, i.e. knowing what
-they are doing, but of intention itself, of subjectivity altogether. In the
-game, reading “tomes of eldritch lore” stands easily as the most sanity
-straining activity, promising knowledge of forgotten spells and other
-mysterious Cthulhu stuff in return. Losing the struggle against an evil book in
+characters, turning the latter into villainous puppets in the DM’s hands. Losing the struggle against an evil book in
 *CoC* by failing some dice rolls means going insane, which means getting
 evicted from your character’s body. Since the player’s *is* the character’s
 subjectivity in the game or, at the very least, the possibility for the latter
