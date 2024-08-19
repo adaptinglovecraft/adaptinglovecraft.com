@@ -96,7 +96,9 @@ the question of why the problem faced by the chief feels so hauntingly familiar
 when really, our reality is so different from the one depicted in the film. The
 Empty Man objectively resides beyond human grasp, so it is only natural that
 state violence should be powerless against him. *But why is it powerless
-against patriarchy?* I’d argue that herein lies the reason we must insist that
+against patriarchy?* 
+
+I’d argue that herein lies the reason we must insist that
 the *Necronomicon* can only be plausibly evil in fictional space where instead
 of humans, all we have are characters, i.e. beings that by their very nature do
 not possess any kind of meaningful historical agency – they do what they’re
