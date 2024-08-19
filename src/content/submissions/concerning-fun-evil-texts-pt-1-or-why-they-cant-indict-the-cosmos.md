@@ -34,7 +34,7 @@ information about its author, i.e. any kind of data that would enable ambiguous
 readings and risk turning the book’s evilness into a matter of taste. All of
 this is helpful because, under normal circumstances, books aren’t considered
 capable of being moral agents; they are things. They come with content and
-a context of production, including some form of authorship. Books aren’t evil
+a context of production, including some form of authorship; but they do not come with agency, they cannot make choices and hence, so it would seem, cannot be subjected to ethical judgement. Books aren’t evil
 in any primordial sense and can only “become evil” in so far as they come to
 play a part in the evil plots of actual agents, i.e. people. If you’ve read
 [the last entry to this
