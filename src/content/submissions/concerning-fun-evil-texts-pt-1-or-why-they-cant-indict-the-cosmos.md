@@ -83,7 +83,7 @@ film’s cthulhuian antagonist is that of living in a society that individualize
 police intervention, in the film as in late Capitalism, lies in the social
 contingence of crime itself: punishing transgressions never gets to the forces
 producing violent actors in the first place, elder Gods in the former,
-patriarchy/racism/poverty/etc. in the latter. Man in the 21st century too appears as "empty", as little more than a vessel through which greater forces enact their will. Punishment of the guilty is mere performance, justice a sham. The neoliberal state can
+patriarchy/racism/poverty/etc. in the latter. Man in the 21st century too appears as "empty", as little more than a vessel through which greater forces enact their will. The neoliberal state can
 indict Harvey Weinstein, but just like it can’t indict the cosmos, it can’t
 indict patriarchy. On the other hand, the film’s marked surrealism goes a long
 way of undermining the naturalization of man's emptyness: it
