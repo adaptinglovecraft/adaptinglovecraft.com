@@ -57,11 +57,9 @@ into setting, subject into object, human into body. When the lost character
 returns as a villain later into the campaign, everybody understands they aren’t
 the same person anymore, they aren’t a person at all, really, but an obstacle,
 much like their tentacled allies or a forest fire blocking the party’s way back
-to safety. They aren’t evil, the power controlling them is. Already we can see the evil object signalling the dusk of the evil subject.[^1]
+to safety. They aren’t evil, the power controlling them is.[^1]
 
-Some Lovecraftian texts, of course, are aware of this problem and suggest that the failure of
-ascribing responsibility to individuals leads to a collapse of morality
-altogether. In David Prior’s 2020 film *The Empty Man*, a police chief despairs
+When objects become the agents of history, human subjects are reduced to objects: suddenly, it becomes more plausible to ascribe moral qualities to the accursed artifact than to those succumbing to its influence. Some Lovecraftian texts foreground this problem and explore its consequences. In David Prior’s 2020 film *The Empty Man*, a police chief despairs
 over his investigation of a series of occult homicides. At all crime scenes,
 cops encounter the same sentence, “The Empty Man made me do it”, written using
 the victim’s blood for ink. The problem: there is no missing serial-killer, in
