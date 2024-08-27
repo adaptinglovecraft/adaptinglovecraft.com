@@ -14,13 +14,13 @@ draft: true
 pinned: false
 author: vansh-sharma
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ author: vansh-sharma
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +640,9 @@ author: vansh-sharma
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -672,7 +672,7 @@ author: vansh-sharma
 	mso-ansi-language:EN-IN;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -724,7 +724,7 @@ In addition to this metaphor, the film also makes several comments about class a
 
 The gender inequality and patriarchal nature of Indian society is also appropriately displayed in the film. A clear contrast can be drawn between Vinayak, who is at liberty to dress in high-quality clothes, adorn himself with jewelry and publicly have a mistress, and his wife, who, in spite of all the money, must still take up the duties of keeping the house running and cannot afford the same luxuries as her husband’s. Additionally, the issue of gender is also highlighted when a moneylender must pay back a loan and attempts to sell a widow to Vinayak in order to quickly acquire the money. In the end, Vinayak ends up buying her and she eventually becomes the aforementioned mistress.
 
-Besides painting a clear picture of Indian society and commenting on the various social issues that plague Indian culture, the movie also stays true to Indian – or rather Hindu – folklore-esque traditions. Among other things, what stands out to me are the depictions of the Mother Goddess, her entire pantheon worth of offspring who are each a god in their own right, and the erection of a temple being the right way to appease to a god. Being able to create pseudo-realistic pieces of lore without having to contradict pre-existing traditions or beliefs displays a mark of brilliance on the film’s creators’ parts and shows that the movie achieves something quite rare in Indian horror cinema.
+Besides painting a clear picture of Indian society and commenting on the various social issues that plague Indian culture, the movie also stays true to Hindu folklore-esque traditions. Among other things, what stands out to me are the depictions of the Mother Goddess, her entire pantheon worth of offspring who are each a god in their own right, and the erection of a temple being the right way to appease to a god. Being able to create pseudo-realistic pieces of lore without having to contradict pre-existing traditions or beliefs displays a mark of brilliance on the film’s creators’ parts and shows that the movie achieves something quite rare in Indian horror cinema.
 
 Another key feature that sets the movie apart from not only other horror films, but a large part of Indian cinema, is the natural sense of horror it produces. This is, in part, due to the conditions around the filming of the movie. With the first draft of the film conceived in 1997, the movie eventually went through multiple reshoots, rewrites and a few initial cast changes. What stayed constant, however, was the authenticity of the cursed rain depicted throughout the movie. Additionally, the almost exclusive use of natural light throughout the making of the film produced a sense of gloom and dread far too alien for Indian cinema.
 
