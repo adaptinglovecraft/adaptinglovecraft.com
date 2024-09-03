@@ -14,13 +14,13 @@ draft: false
 pinned: false
 author: vansh-sharma
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ author: vansh-sharma
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +640,9 @@ author: vansh-sharma
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -672,11 +672,11 @@ author: vansh-sharma
 	mso-ansi-language:EN-IN;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
-The Indian folk horror film *Tumbbad* (2019) is more than one of the best portrayals of sheer terror in Indian cinema. It represents, to the best of my knowledge, mainstream Indian cinema’s first dive into the realm of cosmic horror. Set in three separate time periods – before, during, and after India’s independence – the movie’s greatness is accentuated by its social commentary and unique mythology. Taken as a whole, the movie represents the high-reaching potential of Indian folk horror – a genre of rich storytelling that has remained criminally underutilized in the past few decades. Among the many things the movie does well, one of the key elements that jumps out to me is the mythology, which seems to be an amalgamation of Hindu and Lovecraftian influences. It is done in a manner that manages to pique the interest of a viewer familiar with the CthulhuMythos without ever alienating the local audience with the lore it builds.
+The Indian folk horror film *Tumbbad* (2019) is more than one of the best portrayals of sheer terror in Indian cinema. It represents, to the best of my knowledge, mainstream Indian cinema’s first dive into the realm of cosmic horror. Set in three separate time periods – before, during, and after India’s independence – the movie’s greatness is accentuated by its social commentary and unique mythology. Taken as a whole, the movie represents the high-reaching potential of Indian folk horror – a genre of rich storytelling that has remained criminally underutilized in the past few decades. Among the many things the movie does well, one of the key elements that jumps out to me is the mythology, which seems to be an amalgamation of Hindu and Lovecraftian influences. It is done in a manner that manages to pique the interest of a viewer familiar with the Cthulhu Mythos without ever alienating the local audience with the lore it builds.
 
 The first allusion to Lovecraftian works of cosmic horror is made near the beginning of the movie, when the name “Hastar” is invoked. A nod to Robert W. Chamber’s *The King in Yellow* (1895), Hastur, the entity portrayed in the movie is revealed to be the first offspring of the Mother Goddess, who controls the world's gold and grain. 
 
