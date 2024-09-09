@@ -14,13 +14,13 @@ draft: false
 pinned: false
 author: vansh-sharma
 ---
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ author: vansh-sharma
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +640,9 @@ author: vansh-sharma
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 10]>
+<!--\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -672,7 +672,7 @@ author: vansh-sharma
 	mso-ansi-language:EN-IN;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\[endif]-->
+<!\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -700,25 +700,25 @@ The source of this woman’s disfiguration is shown to be Hastar. As the story g
 
 Initially, this used to be the woman’s task, but once her adventure went awry, resulting in her narrowly escaping Hastar but not without first being cursed by him. Through this is her current physical form explained, as is her connection to Hastar, which becomes more relevant due to the fact that when conscious, she goes into a cannibalistic frenzy and can only be calmed back down into slumber by invoking Hastar’s name, which scares her into sleep. The curse also makes it impossible for her to die naturally, which is why it falls upon Vinayak and his mother’s shoulders to care for her. This primarily includes feeding her as she is unconscious, keeping her chained to the wall, and subduing her with Hastar’s name if and when she wakes up. Vinayak and his mother eventually move away from Tumbbad and the old woman is left uncared for, still chained to the wall in her small, dark room, and thus concludes the first chapter of the movie.
 
-            As stated earlier, the movie is set in three separate periods of India’s struggle for independence, and I argue here, as I will below, that each chapter of the film mirrors India’s state at that time. From that one can understand that the first chapter of the film represents India before the struggle for independence fully began. As Vinayak is paralyzed by her fear of the woman, able to hardly take any action against her, so are the people of India still bound by the colonizing forces. The beginning of the freedom struggle is also reflected in Vinayak and his mother at last moving away from Tumbbad to the city of Pune.
+As stated earlier, the movie is set in three separate periods of India’s struggle for independence, and I argue here, as I will below, that each chapter of the film mirrors India’s state at that time. From that one can understand that the first chapter of the film represents India before the struggle for independence fully began. As Vinayak is paralyzed by her fear of the woman, able to hardly take any action against her, so are the people of India still bound by the colonizing forces. The beginning of the freedom struggle is also reflected in Vinayak and his mother at last moving away from Tumbbad to the city of Pune.
 
-            With the start of the second chapter, an adult Vinayak returns to Tumbbad in search of Hastar’s treasure and seeks out the monstrous woman in his old, abandoned home. She is shown to have devolved even further. With a tree growing from within her and her hunger still unsatiated, she convinces Vinayak to end her misery in return for information about Hastar’s treasure.
+With the start of the second chapter, an adult Vinayak returns to Tumbbad in search of Hastar’s treasure and seeks out the monstrous woman in his old, abandoned home. She is shown to have devolved even further. With a tree growing from within her and her hunger still unsatiated, she convinces Vinayak to end her misery in return for information about Hastar’s treasure.
 
 ![](/media/7.png)
 
-             In spite of being hinted at during previous parts of the film, it is during his interaction with the woman that his generational curse is spelled out in clear terms. Similar to Hastar, it is revealed that Vinayak and his bloodline suffer from insurmountable greed. It was greed that caused the woman to first venture down the Goddess’s womb; it was the same greed that resulted in the local lord’s accumulation of wealth; and it is the same greed that pulls Vinayak back to Tumbbad. The woman tries to dissuade Vinayak from venturing down into the womb, begging him to let go of his greed, but Vinayak clearly ignores her, even citing his greed as his only quality. It is hard to decide whether Vinayak could be considered courageous or whether he is motivated solely by his avarice, with the promise of riches inhibiting his fear. Nevertheless, Vinayak figures out a routine for going down the well and stealing Hastar’s gold. As he continues to steal gold, his place in society visibly improves. Changes come to his social status, his house, and his influence, and with that, the second act of the film ends.
+In spite of being hinted at during previous parts of the film, it is during his interaction with the woman that his generational curse is spelled out in clear terms. Similar to Hastar, it is revealed that Vinayak and his bloodline suffer from insurmountable greed. It was greed that caused the woman to first venture down the Goddess’s womb; it was the same greed that resulted in the local lord’s accumulation of wealth; and it is the same greed that pulls Vinayak back to Tumbbad. The woman tries to dissuade Vinayak from venturing down into the womb, begging him to let go of his greed, but Vinayak clearly ignores her, even citing his greed as his only quality. It is hard to decide whether Vinayak could be considered courageous or whether he is motivated solely by his avarice, with the promise of riches inhibiting his fear. Nevertheless, Vinayak figures out a routine for going down the well and stealing Hastar’s gold. As he continues to steal gold, his place in society visibly improves. Changes come to his social status, his house, and his influence, and with that, the second act of the film ends.
 
 The struggle for independence which took its first steps at the end of the first chapter is shown to be in full swing in the second. The movie chooses to be rather obvious about the metaphor in this act, shedding all subtleties and making clear the parallels between Vinayak’s upward social mobility and India’s increasing independence. The third act of the film continues to keep up with the metaphor and begins in a newly-independent India where Vinayak lives a decadent, bourgeois life. However, this act shifts its focus from Vinayak and his greed to his son, Pandurang, who spends his time training to steal from Hastar. The question of a generational curse becomes even more relevant with Pandurang, who not only inherits his forefathers avarice, but soon proves to be greedier than Vinayak himself.
 
-            While the old woman and Vinayak had attempted to steal a handful of gold coins in their respective raids into the Goddess’s womb, Pandurang suggests aiming not for the scattered gold, rather for Hastar’s loincloth, which is the source of all the gold. The father and son put the plan in motion, sure in their ability to execute it to perfection. However, things start going wrong almost immediately, causing what was meant to be a heist to turn into a panicked scrambling for survival. Pandurang is able to make it out at the expense of Vinayak seemingly sacrificing himself. This turns out to only be partly true, for when Pandurang steps out of the womb, he encounters a disfigured Vinayak. Despite being heavily injured and resembling the old woman more than a human, Vinayak reveals to have snagged Hastar’s pouch during his escape and offers it to his son.
+While the old woman and Vinayak had attempted to steal a handful of gold coins in their respective raids into the Goddess’s womb, Pandurang suggests aiming not for the scattered gold, rather for Hastar’s loincloth, which is the source of all the gold. The father and son put the plan in motion, sure in their ability to execute it to perfection. However, things start going wrong almost immediately, causing what was meant to be a heist to turn into a panicked scrambling for survival. Pandurang is able to make it out at the expense of Vinayak seemingly sacrificing himself. This turns out to only be partly true, for when Pandurang steps out of the womb, he encounters a disfigured Vinayak. Despite being heavily injured and resembling the old woman more than a human, Vinayak reveals to have snagged Hastar’s pouch during his escape and offers it to his son.
 
 ![](/media/16.png)
 
-            Pandurang’s next action is clearly a big moment. The boy recognizes, as does the audience, that what his father is offering him is not just a mystical loincloth with gold coins in it. No, what Vinayak holds up to Pandurang in his dying breaths is his own greed. He offers to Pandurang, giving him the opportunity to fully realize his inheritance.
+Pandurang’s next action is clearly a big moment. The boy recognizes, as does the audience, that what his father is offering him is not just a mystical loincloth with gold coins in it. No, what Vinayak holds up to Pandurang in his dying breaths is his own greed. He offers to Pandurang, giving him the opportunity to fully realize his inheritance.
 
-            It is also at this moment that the movie sheds its Lovecraftian influences and diverges from that path into one inherently reflective of Indian values. Much like a lot of Indian stories, Tumbbad also shows Pandurang rejecting the loincloth – and the generational avarice latched on to it– and choosing the path of morality. The film closes with Pandurang leaving Tumbbad in tears, having separated himself from the greed at last, and having broken the curse on his family. If the first and second act of the film are representative of India before and at the cusp of independence respectively, the final act is then about the newly independent India. Just as Pandurang’s fate is left unclear in the end, having overcome his greed and his father’s influence, so was the case with India, its newly liberated citizens unsure of the direction the new country will lean in.
+It is also at this moment that the movie sheds its Lovecraftian influences and diverges from that path into one inherently reflective of Indian values. Much like a lot of Indian stories, Tumbbad also shows Pandurang rejecting the loincloth – and the generational avarice latched on to it– and choosing the path of morality. The film closes with Pandurang leaving Tumbbad in tears, having separated himself from the greed at last, and having broken the curse on his family. If the first and second act of the film are representative of India before and at the cusp of independence respectively, the final act is then about the newly independent India. Just as Pandurang’s fate is left unclear in the end, having overcome his greed and his father’s influence, so was the case with India, its newly liberated citizens unsure of the direction the new country will lean in.
 
-            What stands out to me about the third act is that it is a cautionary tale in its own right. It displays how power and confidence can crumble under the overbearing weight of greed. It comments on the responsibilities that come with complete independence, on the volatility of vices, and how, if not wielded properly, independence can lead to disastrous results. It implores the audience to be mindful of the decisions they make, and most importantly it sends out a hopeful message about how it is never too late to do what is right. This idea is in fact explored in two points in the film in two various ways, the rain’s destructive yet potentially cautionary nature being the first, and Pandurang’s abandonment of his greed being the second.
+What stands out to me about the third act is that it is a cautionary tale in its own right. It displays how power and confidence can crumble under the overbearing weight of greed. It comments on the responsibilities that come with complete independence, on the volatility of vices, and how, if not wielded properly, independence can lead to disastrous results. It implores the audience to be mindful of the decisions they make, and most importantly it sends out a hopeful message about how it is never too late to do what is right. This idea is in fact explored in two points in the film in two various ways, the rain’s destructive yet potentially cautionary nature being the first, and Pandurang’s abandonment of his greed being the second.
 
 In addition to this metaphor, the film also makes several comments about class and gender in India. The question of class becomes evident as the viewer watches Vinayak going from a poor youth on the outskirts of society to starting to do better for himself while still being in a position to be exploited by more powerful individuals in the second act. This then further develops into Vinayak establishing himself as a respectable man with high social standing. Yet another comment on class is made in the third act when Vinayak takes his son to a brothel. As the song plays on in the background, one can see Vinayak, his mistress, and his son enjoying themselves to the fullest with complete disregard for what it may cost. Simultaneously, however, the scene shifts to two old and frail grain-workers who are covered entirely in flour and must still work to fulfil Vinayak’s demands.
 
