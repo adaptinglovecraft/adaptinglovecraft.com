@@ -10,7 +10,7 @@ tags:
   - comment
   - written-fiction
 date: 2024-09-04
-draft: true
+draft: false
 pinned: false
 author: vansh-sharma
 ---
