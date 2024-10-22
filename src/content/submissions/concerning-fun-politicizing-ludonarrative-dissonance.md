@@ -11,14 +11,14 @@ draft: false
 pinned: false
 author: max-dreysse
 ---
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -57,9 +57,9 @@ author: max-dreysse
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -638,9 +638,9 @@ author: max-dreysse
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\\\\\[endif]-->
+</xml><!\\\\\\\\\\[endif]-->
 
-<!--\\\\\\\\\[if gte mso 10]>
+<!--\\\\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -670,18 +670,18 @@ author: max-dreysse
 	mso-ansi-language:#0C00;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\\\\\[endif]-->
+<!\\\\\\\\\\[endif]-->
 
 <!--StartFragment-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -720,9 +720,9 @@ author: max-dreysse
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1301,9 +1301,9 @@ author: max-dreysse
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 10]>
+<!--\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1333,7 +1333,7 @@ author: max-dreysse
 	mso-ansi-language:#0C00;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1345,7 +1345,7 @@ Put in the shortest possible terms, my discomfort with ludonarrative dissonance 
 
 Let’s begin by returning to ludonarrative dissonance’s morphological and etymological structure. “Dissonance”, here, means that two things, i.e. “ludo” and “narrative”, don’t mix. In most other contexts, dissonance refers to a disharmony readily perceived by anyone: we are at a concert, the string player misses a note, the whole audience gasps. It needn’t be deduced intellectually: dissonance immediately disrupts, it often strikes us as ugly, inappropriate, or straight up false. It occurs, to invoke a loaded metaphor, on the text’s surface. Fittingly, the Arreola-Jones passage cited above speaks of a “phenomenological” notion, one that refers to a specific kind of “experience”. Dissonance is ideological, of course, but superficially so: it speaks to a disruption of audience expectations, often entailing a subversion of hegemonial, thoroughly internalized aesthetic norms (or failure to execute them, as in the case of the violinist). For this reason, it is felt by everyone, not just the critic or intellectual. Which is why the way it is commonly used in games discourse strikes me as misleading. Unlike Arreola-Jones, and against the associations produced by the term “dissonance”, I am convinced that ludonarrative dissonance is in fact *not* a phenomenological notion: most of the games called out for ostensibly being ludonarratively dissonant are enthusiastically received by mainstream audiences and journalists alike (compare *Bioshock*, *The Last of Us* or *Uncharted*). On the other hand, ludonarrative dissonance is seldom used to critique games that *do* offend popular sensibilities: *Anthem*, *Gollum*, *Diablo Immortal* or *Overwatch 2* are accused of many things, but ludonarrative dissonance as far as I can tell is not (prominently) among them. Consider also the avant-gardist tone of the usual opinion piece containing the notion: “here is why this popular game is really bad if you think about it.” **Such papers draw much of their rhetorical force from a flattering distinction between a cultivated authorial I (and their privy reader), and the playing habits of an imputed “uncritical” consumer, who does not seem to notice or care about the ominous thing to which ludonarrative dissonance seeks to refer.** As evidenced by review-scores and sales numbers, ostensibly ludonarratively dissonant games do not lack immersiveness, nor are they unenjoyable or perceived as disruptively incoherent. All of which makes “dissonance” something of an inappropriately chosen word: it evokes immediate aesthetic experience while actually appealing to a hidden truth underlying the text, one that is accessible only to a select intellectual elite.
 
-Before discussing what’s at stake in these considerations, I would like to make a brief detour and revisit ludonarrative dissonance’s 2007 urtext *Ludonarrative Dissonance in Bioshock*. In it, game designer and critic Clint Hocking notes that the iconic shooter suffers from “a powerful dissonance between *what it is about* as a game, and *what it is about* as a story” (my emphasis). Hocking’s phrasing is instructive because it reveals that the dissonance he is talking about is not in the strictest sense “internal” to the game: rather than between game and story, Hocking uses ludonarrative dissonance to refer to a tension between what both of them *are about*. He is talking, and this is crucial, about the game’s *meaning. Bioshock*, according to him, is a text that wants to critique something (Randian Objectivism) but ultimately fails to do so. **Its incoherence lies in failing to realize the intention Hocking ascribes to it.** Narratively, the protagonist’s objectivist treatment of the Little Sister conundrum as part of their quest to save Atlas may be controversial, but it is utterly plausible and certainly not contradictory. What *is* contradicted, however, is the message Hocking assumes the game wants to purvey, namely that Randian objectivism is bad. His phrasing and his choice of words end up implying this tension occurs openly visible on the surface of the game. This is true not just for the notion of "dissonance": for instance, Hocking writes that “the leveraging of the game’s narrative structure against its ludic structure all but destroys the player’s ability to feel connected to either.” As any reference to its critical as well as commercial success establishes beyond a sliver of doubt, *Bioshock* does not destroy “the player’s ability to feel connected” to its world – unless, and that is the crux of the matter, by “player” we mean Hocking himself, or an abstract player-subject modeled after him.
+Before discussing what’s at stake in these considerations, I would like to make a brief detour and revisit ludonarrative dissonance’s 2007 urtext *Ludonarrative Dissonance in Bioshock*. In it, game designer and critic Clint Hocking notes that the iconic shooter suffers from “a powerful dissonance between *what it is about* as a game, and *what it is about* as a story” (my emphasis). Hocking’s phrasing is instructive because it reveals that the dissonance he is talking about is not in the strictest sense “internal” to the game: rather than between game and story, Hocking uses ludonarrative dissonance to refer to a tension between what both of them *are about*. He is talking, and this is crucial, about the game’s *meaning. Bioshock*, according to him, is a text that wants to critique something (Randian Objectivism) but ultimately fails to do so. **Its (alleged) incoherence lies in failing to realize the intention Hocking ascribes to it.** Narratively, the protagonist’s objectivist treatment of the Little Sister conundrum as part of their quest to save Atlas may be controversial, but it is utterly plausible and certainly not contradictory. What *is* contradicted, however, is the message Hocking assumes the game wants to purvey, namely that Randian objectivism is bad. His phrasing and his choice of words end up implying this tension occurs openly visible on the surface of the game. This is true not just for the notion of "dissonance": for instance, Hocking writes that “the leveraging of the game’s narrative structure against its ludic structure all but destroys the player’s ability to feel connected to either.” As any reference to its critical as well as commercial success establishes beyond a sliver of doubt, *Bioshock* does not destroy “the player’s ability to feel connected” to its world – unless, and that is the crux of the matter, by “player” we mean Hocking himself, or an abstract player-subject modeled after him.
 
 Here, then, lies the problem. Hocking’s method is interpretation: he ascribes intentionality, and only from there does he uncover a dysfunctional allegorical operation in *Bioshock*. Only if we assume the game wants to make a case against Randian objectivism does its decision to reward the employment of that philosophy with a happy end become self-defeating. Via a subtle interpretative gesture, Hocking judges the game against that which he (compellingly!) argues seeks expression in it, but which isn’t positively manifest in the game. Complicatedly, however, in as much as the act of interpreting something entails occupying a position external to it, interpretation and immersion are mutually exclusive modes of engaging with media/art. To note a tension between game and something outside of it (i.e. by thinking about its meaning, the way it refers to something else, in this case Ayn Rand), presupposes an experiential distance that by all accounts forecloses immersion anyhow. Put differently, aslong as the player experiences immersion, they couldn’t care less about whether the game’s politics are incoherent: they are here to save Atlas and if it takes the killing of some creepy girls then so be it! Going by commercial success, accepting such premises did not seem to pose much of a problem for most players of *Bioshock*. That Hocking felt otherwise is a consequence of his engagement with the game being subtly, and perhaps unconsciously, interpretative from the get-go. His failure to feel immersed thus follows not from the game’s “dissonance,” but from his interpretative posture, which has him abandon immersion in favor of a search for meaning. His claim that what disrupted his experience was the thing he found (“ludonarrative dissonance”) rather than the act of searching, is a retroactive rationalization that stands in to translate the findings of a marginalized form of critical thought (interpretation) into the more permissible language of personal taste. **Ludonarrative dissonance is an interpretative notion posing as a phenomenological one.** The statistical unconventionality of Hocking’s reading of *Bioshock* indeed forces into view the fact that not every aesthetic experience is interpretative: it is fully feasible to play through *Bioshock* while feeling utterly “connected” to it.
 
