@@ -10,13 +10,13 @@ draft: false
 pinned: false
 author: laura-nikolich
 ---
-<!--\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\\[endif]-->
+</xml><!\\\\\\\[endif]-->
 
-<!--\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -55,9 +55,9 @@ author: laura-nikolich
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\\[endif]-->
+</xml><!\\\\\\\[endif]-->
 
-<!--\\\\\\[if gte mso 9]><xml>
+<!--\\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -636,9 +636,9 @@ author: laura-nikolich
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\\[endif]-->
+</xml><!\\\\\\\[endif]-->
 
-<!--\\\\\\[if gte mso 10]>
+<!--\\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -668,7 +668,7 @@ author: laura-nikolich
 	mso-ansi-language:EN-IN;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\\[endif]-->
+<!\\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -704,7 +704,7 @@ I also have a fun, pop-cultural reference, that is less grim than drowning yours
 
 I still have not solved the problem with equating Cthulhu’s otherness to non-whiteness, which allows all sorts of racist multiplicities back into the motion and I will leave it for now at saying not all otherness is created equal and I do believe while cosmic entities install a similar fear in our frail hearts as non-white people might do in racists, I don’t believe they should be equated. And I know it’s tempting from the sea and its Moby Dicks to space as the last frontier. To me this is a tired motion, trying to apply constraints to limitlessness. The point is precisely that it is beyond our comprehension, barely latching onto the plane of consistency,  where our binary ideologies live and fester. 
 
-To sum this up, while I find Kwong’s reading of Cthulhu as assemblage helpful to place it within a logic of intensities, as I hope to have shown, a more radical Deleuzian reading would focus on the moment of becoming rather than empanzipatingemancipating the text from his its author or its content from its colonialism, as those categories are inherently bound to the logic of modernity itself. Or, to put it differently: there is no deconstructing Lovecraft, or his text, there is just you, the reader, and the monster and whatever happens, when you become one. 
+To sum this up, while I find Kwong’s reading of Cthulhu as assemblage helpful to place it within a logic of intensities, as I hope to have shown, a more radical Deleuzian reading would focus on the moment of becoming rather than empancipating the text from its author or its content from its colonialism, as those categories are inherently bound to the logic of modernity itself. Or, to put it differently: there is no deconstructing Lovecraft, or his text, there is just you, the reader, and the monster and whatever happens, when you become one. 
 
 #### Works Cited
 
