@@ -10,13 +10,13 @@ draft: false
 pinned: false
 author: alena-isakov
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -57,9 +57,9 @@ author: alena-isakov
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -628,9 +628,9 @@ author: alena-isakov
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,9 +660,11 @@ author: alena-isakov
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
+
+![](/media/isakow-illustration-kleoin.png)
 
 When we think of science gone wrong in fiction, our minds often turn to vivid, high-stakes spectacles—portals to sinister dimensions or corpses crawling out of the grave with newfound life. Yet the most chilling aspect of these tales often isn’t the spectacle itself but the moral decay that propels it. Beneath all the tentacled monsters and lab-coat drama, there’s a recurring truth: when researchers ignore the humanity of their subjects, the results can be catastrophic for everyone involved. This unsettling idea is at the core of both Netflix’s *Stranger Things* and H. P. Lovecraft’s short story ["Herbert West—Reanimator"](https://www.hplovecraft.com/writings/texts/fiction/hwr.aspx), two works separated by nearly a century but united in their depiction of cold, calculating experiments carried out without a shred of empathy.
 
