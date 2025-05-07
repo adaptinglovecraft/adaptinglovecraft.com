@@ -1,4 +1,4 @@
 ---
-name: Vansh-Sharma
+name: Vansh Sharma
 ---
 \-
