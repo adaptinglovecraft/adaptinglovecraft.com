@@ -1,7 +1,7 @@
 ---
 title: Past the Point of No Return—Two Tales of Scientific Obsession Gone Wrong
 hook: What has the Netflix show Stranger Things got to do with Lovecraft?
-image: /media/isakow-illustration.png
+image: /media/isakow-illustration-kleoin.png
 tags:
   - tv-film
   - comment
