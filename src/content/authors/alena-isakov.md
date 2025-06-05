@@ -1,4 +1,4 @@
 ---
-name: Alena Isakov
+name: Alena Isakow
 ---
 Student at GU Frankfurt.
