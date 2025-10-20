@@ -8,7 +8,7 @@ tags:
   - video-games
   - Steam
   - categories-concepts
-date: 2025-10-15
+date: 2025-10-22
 draft: false
 pinned: false
 author: tim-lanzendoerfer
