@@ -5,15 +5,7 @@ hook: "What's the role of place in H.P. Lovecraft? Trick question: it's massive.
   useful Lovecraftian location."
 image: /media/comics_600_400.webp
 tags:
-  - announcement
-  - tv-film
-  - tabletop
-  - podcast
-  - comment
   - comics
-  - written-fiction
-  - concerning-fun
-  - video-games
 date: 2026-05-11
 draft: false
 pinned: false
